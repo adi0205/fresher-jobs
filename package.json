@@ -1,0 +1,14 @@
+{
+  "name": "fresher-jobs-india",
+  "version": "1.0.0",
+  "description": "Daily updated fresher/graduate/apprenticeship jobs at MNCs in India",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node --env-file-if-exists=.env scripts/fetch-jobs.js",
+    "serve": "npx --yes serve@latest -l 3000 ."
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

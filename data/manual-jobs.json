@@ -1,0 +1,55 @@
+{
+  "_comment": "Manually curated jobs. The fetch script merges these with API results. Edit this file directly to add/remove jobs that APIs don't surface (Workday-hosted roles, etc.).",
+  "jobs": [
+    {
+      "id": "pwc-risk-consulting-bengaluru-301974",
+      "title": "Associate - Risk Consulting",
+      "company": "PwC",
+      "location": "Bengaluru",
+      "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Associate---Bengaluru-Millenia---Risk-Consulting_301974WD-1",
+      "source": "PwC Workday",
+      "tags": ["associate", "consulting", "risk"],
+      "posted_at": "2026-05-20T00:00:00Z"
+    },
+    {
+      "id": "hsbc-intern-platforms-mumbai",
+      "title": "Intern - Platforms and Projects",
+      "company": "HSBC",
+      "location": "Mumbai",
+      "apply_url": "https://apply.careers.hsbc.com/job/Mumbai-Intern-Platforms-and-Projects-MH-400063/1360910257/",
+      "source": "HSBC Careers",
+      "tags": ["intern", "banking", "projects"],
+      "posted_at": "2026-05-18T00:00:00Z"
+    },
+    {
+      "id": "google-pm-ops-apprenticeship-gurgaon",
+      "title": "Project Management & Operations Apprenticeship",
+      "company": "Google",
+      "location": "Gurgaon",
+      "apply_url": "https://google.wd501.myworkdayjobs.com/GOCJobs/job/IN-GUR-TIP2/Project-Management---Operations-Apprenticeship_JR4606/apply",
+      "source": "Google Workday",
+      "tags": ["apprenticeship", "operations", "project management"],
+      "posted_at": "2026-05-15T00:00:00Z"
+    },
+    {
+      "id": "google-digital-marketing-apprenticeship-gurgaon",
+      "title": "Digital Business Marketing Apprenticeship",
+      "company": "Google",
+      "location": "Gurgaon",
+      "apply_url": "https://google.wd501.myworkdayjobs.com/en-US/GOCJobs/job/IN-GUR-SIGC/XMLNAME--Upcoming-Roles--Digital-Business-Marketing-Apprenticeship_JR3171/apply/useMyLastApplication?source=LinkedIn",
+      "source": "Google Workday",
+      "tags": ["apprenticeship", "marketing", "digital"],
+      "posted_at": "2026-05-15T00:00:00Z"
+    },
+    {
+      "id": "cisco-associate-sales-trainee-india",
+      "title": "Associate Sales Trainee - Technical Graduate Apprentice",
+      "company": "Cisco",
+      "location": "India",
+      "apply_url": "https://careers.cisco.com/global/en/job/2013623/Associate-Sales-Trainee-Technical-Graduate-Apprentice-India-UHR",
+      "source": "Cisco Careers",
+      "tags": ["associate", "sales", "trainee", "apprenticeship"],
+      "posted_at": "2026-05-12T00:00:00Z"
+    }
+  ]
+}

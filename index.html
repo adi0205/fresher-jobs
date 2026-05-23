@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fresher Jobs India — Daily Updated MNC Roles</title>
+  <meta name="description" content="A curated daily-updated job board for fresher, graduate and apprenticeship roles at Fortune 500 companies in India." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23a78bfa'/><stop offset='1' stop-color='%23f472b6'/></linearGradient></defs><circle cx='50' cy='50' r='40' fill='url(%23g)'/></svg>" />
+</head>
+<body>
+
+  <!-- Animated gradient mesh background -->
+  <div class="mesh-bg" aria-hidden="true">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+    <div class="blob blob-4"></div>
+    <div class="grain"></div>
+  </div>
+
+  <nav class="topnav">
+    <div class="container nav-row">
+      <a href="#top" class="brand">
+        <span class="brand-dot"></span>
+        FRESHER<span class="brand-slash">/</span>JOBS
+      </a>
+      <div class="nav-links">
+        <a href="#listings">listings</a>
+        <a href="#about">about</a>
+        <a href="#contribute">contribute</a>
+      </div>
+    </div>
+  </nav>
+
+  <header id="top" class="hero">
+    <div class="container">
+      <p class="hero-eyebrow reveal">
+        <span class="dot-pulse"></span> Live · auto-updated daily at 9am IST
+      </p>
+      <h1 class="hero-title reveal">
+        The fresher job hunt,<br />
+        <span class="grad-text">but actually <em>useful</em></span>.
+      </h1>
+      <p class="hero-sub reveal">
+        Curated graduate, apprenticeship &amp; trainee roles at <span class="chip">Fortune 500</span> companies in India.
+        Pulled from <span class="chip">Greenhouse</span>, <span class="chip">Lever</span>, <span class="chip">Adzuna</span> &amp; manual entries —
+        with the BPO spam &amp; recruiter junk filtered out.
+      </p>
+
+      <div class="hero-stats reveal">
+        <div class="stat-card">
+          <div class="stat-num grad-text" id="stat-count">—</div>
+          <div class="stat-label">open roles</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num grad-text-2" id="stat-companies">—</div>
+          <div class="stat-label">companies</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num grad-text-3" id="stat-updated">—</div>
+          <div class="stat-label">last refresh</div>
+        </div>
+      </div>
+
+      <div class="hero-actions reveal">
+        <a href="#listings" class="btn-primary">
+          Browse <span class="arrow">→</span>
+        </a>
+        <a href="#contribute" class="btn-ghost">Suggest a role</a>
+      </div>
+    </div>
+  </header>
+
+  <section id="listings" class="listings">
+    <div class="container">
+      <div class="section-head reveal">
+        <p class="section-eyebrow"><span class="num">02</span> Open Roles</p>
+        <h2 class="section-title">Live listings <span class="dim">— filter &amp; search below</span></h2>
+      </div>
+
+      <div class="controls reveal">
+        <div class="search-wrap">
+          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="search" id="search" placeholder="Search company, role, or city…" autocomplete="off" />
+        </div>
+        <div class="filter-row">
+          <select id="filter-type">
+            <option value="">all role types</option>
+            <option value="apprenticeship">apprenticeship</option>
+            <option value="graduate">graduate</option>
+            <option value="trainee">trainee</option>
+            <option value="associate">associate</option>
+            <option value="intern">intern</option>
+            <option value="analyst">analyst</option>
+          </select>
+          <select id="filter-location">
+            <option value="">all locations</option>
+          </select>
+          <select id="filter-source">
+            <option value="">all sources</option>
+          </select>
+          <button id="clear-filters" type="button">clear filters</button>
+        </div>
+        <p class="result-count" id="job-count">—</p>
+      </div>
+
+      <div id="jobs" class="jobs-grid">
+        <div class="loading">loading jobs…</div>
+      </div>
+
+      <div id="empty" class="empty hidden">
+        <p>No matches. Try a different search.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <div class="container two-col reveal">
+      <div>
+        <p class="section-eyebrow"><span class="num">03</span> Why this exists</p>
+        <h2 class="section-title">Built for freshers, <span class="grad-text-2">by a fresher</span>.</h2>
+      </div>
+      <div class="prose glass-card">
+        <p>
+          The fresher job hunt in India is genuinely broken. You bounce between LinkedIn, Naukri, Workday portals, company career pages — and you still miss Google apprenticeships because they only post for 48 hours.
+        </p>
+        <p>
+          This site pulls from <span class="chip">~25 sources</span> daily and filters out the noise — no BPO walk-ins, no "Customer Service Representative" mass hiring, no recruiter spam. Just the <em>tier-1</em> MNC roles freshers actually want.
+        </p>
+        <div class="badge-row">
+          <span class="badge">Open source</span>
+          <span class="badge">Free forever</span>
+          <span class="badge">No login</span>
+          <span class="badge">No tracking</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contribute" class="contribute">
+    <div class="container two-col reveal">
+      <div>
+        <p class="section-eyebrow"><span class="num">04</span> Help curate</p>
+        <h2 class="section-title">Found a role <span class="grad-text-3">we missed?</span></h2>
+      </div>
+      <div class="prose glass-card">
+        <p>
+          If you spot a quality fresher role we don't list (especially Workday/SuccessFactors postings that APIs miss), add it to <span class="chip">data/manual-jobs.json</span> via a PR, or drop a message.
+        </p>
+        <a href="mailto:bhardwajaditya226@gmail.com?subject=Job%20suggestion" class="btn-primary inline">
+          Suggest a role <span class="arrow">→</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="signature reveal">
+    <div class="container">
+      <p class="sig-eyebrow">designed &amp; built by</p>
+      <h2 class="sig-name">
+        <a href="https://bhardwajadi.netlify.app" target="_blank" rel="noopener noreferrer">
+          <span class="grad-text">Aditya</span> <span class="grad-text-2">Bhardwaj</span>
+        </a>
+      </h2>
+      <p class="sig-tag">
+        <a href="https://bhardwajadi.netlify.app" target="_blank" rel="noopener noreferrer">bhardwajadi.netlify.app <span class="arrow">→</span></a>
+      </p>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footer-main">
+        Built &amp; shipped in a weekend · Updated daily via GitHub Actions
+      </p>
+      <p class="small dim">Not affiliated with any listed company. Verify postings before applying.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
