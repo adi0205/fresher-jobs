@@ -1,13 +1,77 @@
 {
-  "updated_at": "2026-05-25T08:06:00.326Z",
-  "count": 114,
+  "updated_at": "2026-05-26T07:01:27.829Z",
+  "count": 111,
   "sources": {
     "manual": 5,
-    "greenhouse": 21,
+    "greenhouse": 19,
     "lever": 1,
     "adzuna": 111
   },
   "jobs": [
+    {
+      "id": "adzuna-5740848237",
+      "title": "Sales Associate",
+      "company": "Reliance Retail",
+      "location": "Kota, Rajasthan",
+      "apply_url": "https://www.adzuna.in/details/5740848237?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "sales"
+      ],
+      "posted_at": "2026-05-26T06:36:47Z"
+    },
+    {
+      "id": "adzuna-5740847795",
+      "title": "Sales Associate",
+      "company": "Reliance Retail",
+      "location": "Jodhpur, Rajasthan",
+      "apply_url": "https://www.adzuna.in/details/5740847795?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "sales"
+      ],
+      "posted_at": "2026-05-26T06:36:45Z"
+    },
+    {
+      "id": "adzuna-5740749089",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5740749089?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-05-26T02:21:52Z"
+    },
+    {
+      "id": "adzuna-5740705020",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "Ahmedabad, Gujarat",
+      "apply_url": "https://www.adzuna.in/details/5740705020?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-05-26T02:08:41Z"
+    },
+    {
+      "id": "greenhouse-stripe-7775311",
+      "title": "Recruitment Coordinator - People Operations Associate",
+      "company": "Stripe",
+      "location": "IN-Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7775311",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-05-25T06:29:34-04:00"
+    },
     {
       "id": "adzuna-5740033428",
       "title": "In_Intern",
@@ -51,7 +115,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Process associate _Voice process & semi voice Walkin Drive on_ Saturday_ 23rd May 2026_11 AM - 3:00 PM @ Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5739767758?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=BEC2C8786743F6A19BA158194299BA0791348499",
+      "apply_url": "https://www.adzuna.in/land/ad/5739767758?se=gh7SotBY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3e209453&v=BEC2C8786743F6A19BA158194299BA0791348499",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -89,7 +153,7 @@
       "title": "HCL Technologies | Walk-In Hiring | International Banking Non Voice",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5737585568?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=EBABCA8C4149E4B7F23B0E342A6F434A3B1E3E85",
+      "apply_url": "https://www.adzuna.in/land/ad/5737585568?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=EBABCA8C4149E4B7F23B0E342A6F434A3B1E3E85",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -136,19 +200,6 @@
       "posted_at": "2026-05-22T02:18:32Z"
     },
     {
-      "id": "adzuna-5736830373",
-      "title": "Associate Analyst - Quality Operations",
-      "company": "Novartis",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5736830373?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-05-22T02:17:42Z"
-    },
-    {
       "id": "adzuna-5736808698",
       "title": "IN_Intern/Trainee",
       "company": "PricewaterhouseCoopers",
@@ -162,31 +213,6 @@
       "posted_at": "2026-05-22T02:14:09Z"
     },
     {
-      "id": "adzuna-5736799525",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5736799525?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-05-22T02:12:36Z"
-    },
-    {
-      "id": "adzuna-5736784310",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5736784310?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-05-22T02:10:14Z"
-    },
-    {
       "id": "adzuna-5736761199",
       "title": "IN_Intern/Trainee",
       "company": "PricewaterhouseCoopers",
@@ -198,18 +224,6 @@
         "intern"
       ],
       "posted_at": "2026-05-22T02:06:34Z"
-    },
-    {
-      "id": "adzuna-5736743351",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5736743351?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-05-22T02:03:39Z"
     },
     {
       "id": "adzuna-5735544651",
@@ -246,18 +260,6 @@
       "source": "Greenhouse",
       "tags": [
         "analyst"
-      ],
-      "posted_at": "2026-05-20T16:58:18-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7577341",
-      "title": "Associate ( Risk/Fraud Operations)",
-      "company": "Stripe",
-      "location": "IN-Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7577341",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
       ],
       "posted_at": "2026-05-20T16:58:18-04:00"
     },
@@ -409,18 +411,6 @@
       "posted_at": "2026-05-20T16:58:18-04:00"
     },
     {
-      "id": "greenhouse-stripe-5423044",
-      "title": "Risk Operations Associate ",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=5423044",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-05-20T16:58:18-04:00"
-    },
-    {
       "id": "greenhouse-stripe-7633559",
       "title": "Sales Compensation Analyst",
       "company": "Stripe",
@@ -472,23 +462,11 @@
       "posted_at": "2026-05-20T16:58:18-04:00"
     },
     {
-      "id": "greenhouse-stripe-7738241",
-      "title": "Verifications Operations Associate",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7738241",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-05-20T16:58:18-04:00"
-    },
-    {
       "id": "adzuna-5734684164",
       "title": "HR Apprentice",
       "company": "CMA CGM",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5734684164?se=Vp8BhRBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=F4ECF08A9F6A037474CC8DFEB091867476AB2489",
+      "apply_url": "https://www.adzuna.in/land/ad/5734684164?se=BKCBn9BY8RGTDdJK-7cL6w&utm_medium=api&utm_source=3e209453&v=F4ECF08A9F6A037474CC8DFEB091867476AB2489",
       "source": "Adzuna",
       "tags": [
         "apprenticeship"
@@ -514,7 +492,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Semi-Voice Process for Finance & Accounting domain Walkin Drive on_ 18th May 2026_1 PM - 4:00 PM @ Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5733974668?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=D5ACAFD4B5E98439E9E9E96DE6A716BCD06F545F",
+      "apply_url": "https://www.adzuna.in/land/ad/5733974668?se=gh7SotBY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3e209453&v=D5ACAFD4B5E98439E9E9E96DE6A716BCD06F545F",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-19T17:24:41Z"
@@ -551,7 +529,7 @@
       "title": "Walk-in || Jodhpur Walkin For Finance & Accounting role on 16th May",
       "company": "Genpact",
       "location": "Jodhpur, Rajasthan",
-      "apply_url": "https://www.adzuna.in/land/ad/5731319589?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=51431554CF1E4A140889D1CCA3996B7CBAA05125",
+      "apply_url": "https://www.adzuna.in/land/ad/5731319589?se=gh7SotBY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3e209453&v=51431554CF1E4A140889D1CCA3996B7CBAA05125",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-16T15:36:13Z"
@@ -561,7 +539,7 @@
       "title": "Customer Service Representative",
       "company": "HCLTech",
       "location": "Nagpur, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5731318275?se=Vp8BhRBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=11385E0EC419A2AA4DD8C1699339DA8714ECC5D1",
+      "apply_url": "https://www.adzuna.in/land/ad/5731318275?se=BKCBn9BY8RGTDdJK-7cL6w&utm_medium=api&utm_source=3e209453&v=11385E0EC419A2AA4DD8C1699339DA8714ECC5D1",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-16T15:34:32Z"
@@ -571,7 +549,7 @@
       "title": "HCL TECH is Hiring for Account Payable process",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5730010640?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=8E965AE8D97E0795E5CDFA4E458F663EA465C67F",
+      "apply_url": "https://www.adzuna.in/land/ad/5730010640?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=8E965AE8D97E0795E5CDFA4E458F663EA465C67F",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-15T09:20:19Z"
@@ -609,7 +587,7 @@
       "title": "HCL Hiring Fresher for Voice & Non-Voice Process 16 May 10:00 AM To 3:00 PM @ HCL Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5728103265?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=11C4A43B64C07D4D370AD38C1008592ABEB592DF",
+      "apply_url": "https://www.adzuna.in/land/ad/5728103265?se=gh7SotBY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3e209453&v=11C4A43B64C07D4D370AD38C1008592ABEB592DF",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-13T18:59:22Z"
@@ -685,7 +663,7 @@
       "title": "HCL Technologies | Walk-In Hiring | International Banking Non Voice",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5722454413?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=D1A45BDE9EEDDE152DE8C2C165D70952FF227A0B",
+      "apply_url": "https://www.adzuna.in/land/ad/5722454413?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=D1A45BDE9EEDDE152DE8C2C165D70952FF227A0B",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -697,7 +675,7 @@
       "title": "VRM Intern",
       "company": "InsuranceDekho",
       "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/land/ad/5722445946?se=Vp8BhRBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=3B937EAEF9325B62B1967C5165EECB6A538EEC6D",
+      "apply_url": "https://www.adzuna.in/land/ad/5722445946?se=BKCBn9BY8RGTDdJK-7cL6w&utm_medium=api&utm_source=3e209453&v=3B937EAEF9325B62B1967C5165EECB6A538EEC6D",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -709,7 +687,7 @@
       "title": "TOC Oracle DBA Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5721569547?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=D3949333C9BDC0BC6D450478CD74AEAD45EF9822",
+      "apply_url": "https://www.adzuna.in/land/ad/5721569547?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=D3949333C9BDC0BC6D450478CD74AEAD45EF9822",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -722,7 +700,7 @@
       "title": "TOC Linux Server Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5721568590?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=9802FA0091E3023EA0CAC0642AFA11F354F5B7C2",
+      "apply_url": "https://www.adzuna.in/land/ad/5721568590?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=9802FA0091E3023EA0CAC0642AFA11F354F5B7C2",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -735,7 +713,7 @@
       "title": "TOC Enterprise Storage Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5721568126?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=1B7BB129110DD495F465BD401A960CEE98EC4E10",
+      "apply_url": "https://www.adzuna.in/land/ad/5721568126?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=1B7BB129110DD495F465BD401A960CEE98EC4E10",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -748,7 +726,7 @@
       "title": "TOC Network Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5721567649?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=8EC548CAA13B526D03BB6C974D6584A9F266931D",
+      "apply_url": "https://www.adzuna.in/land/ad/5721567649?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=8EC548CAA13B526D03BB6C974D6584A9F266931D",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -761,7 +739,7 @@
       "title": "TOC Virtualization & Compute Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5721567574?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=584FFEBD323E22FE5BDD25A762F94C64B7BB6369",
+      "apply_url": "https://www.adzuna.in/land/ad/5721567574?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=584FFEBD323E22FE5BDD25A762F94C64B7BB6369",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -774,7 +752,7 @@
       "title": "TOC Windows Server Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5721567419?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=C4F9E9102D41692E80C948C825AFFBF37E3B75BE",
+      "apply_url": "https://www.adzuna.in/land/ad/5721567419?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=C4F9E9102D41692E80C948C825AFFBF37E3B75BE",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -787,7 +765,7 @@
       "title": "TOC MSSQL DBA Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5721565891?se=AMtzjRBY8RGjzvjlo3DZDw&utm_medium=api&utm_source=3e209453&v=808481D6E16E293381C3C46E7BD2176845D97CC4",
+      "apply_url": "https://www.adzuna.in/land/ad/5721565891?se=DO6krdBY8RGuNdsvOxxwUw&utm_medium=api&utm_source=3e209453&v=808481D6E16E293381C3C46E7BD2176845D97CC4",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -813,7 +791,7 @@
       "title": "HCL Hiring Fresher for Voice & Non-Voice Process On 5 & 6 May10:00 AM To 3:00 PM @ HCL Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5716473095?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=EED2AF4B44BA2888A55FDF899BF64974DA459CCD",
+      "apply_url": "https://www.adzuna.in/land/ad/5716473095?se=gh7SotBY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3e209453&v=EED2AF4B44BA2888A55FDF899BF64974DA459CCD",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-02T07:03:53Z"
@@ -990,7 +968,7 @@
       "title": "Sales Executive",
       "company": "Policybazaar.com",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5714788347?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=6E13112E1ABBBC3D5F5FA4648E262E2AA9D2D75E",
+      "apply_url": "https://www.adzuna.in/land/ad/5714788347?se=gh7SotBY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3e209453&v=6E13112E1ABBBC3D5F5FA4648E262E2AA9D2D75E",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -1002,7 +980,7 @@
       "title": "HCL Hiring 2026/2025 Passouts for Banking & Healthcare Voice Process On 30 April 10:00 AM To 3:00 PM @ HCL Ambattur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5714430065?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=84B06F862081814A9D4B4505C06DD39363D6721F",
+      "apply_url": "https://www.adzuna.in/land/ad/5714430065?se=gh7SotBY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3e209453&v=84B06F862081814A9D4B4505C06DD39363D6721F",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-04-30T14:53:04Z"
@@ -1019,16 +997,6 @@
         "analyst"
       ],
       "posted_at": "2026-04-30T06:52:48Z"
-    },
-    {
-      "id": "adzuna-5711671079",
-      "title": "Walk-in || Jodhpur Walkin For Finance & Accounting role from 29th April",
-      "company": "Genpact",
-      "location": "Jodhpur, Rajasthan",
-      "apply_url": "https://www.adzuna.in/land/ad/5711671079?se=fMM8hxBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=E16B92621C7C27D021740427FDFC9C7DCA37357B",
-      "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-04-27T18:41:36Z"
     },
     {
       "id": "adzuna-5711173955",
@@ -1231,7 +1199,7 @@
       "title": "Mega -Walk-In Drive for Freshers - Customer Service - 18 May 2026 - 22 May 2026",
       "company": "HCLTech",
       "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/land/ad/5699972425?se=Vp8BhRBY8RGNLcf39U_NzQ&utm_medium=api&utm_source=3e209453&v=413BF6B5EC97377907CCD731BA5BD260A9D73BE7",
+      "apply_url": "https://www.adzuna.in/land/ad/5699972425?se=BKCBn9BY8RGTDdJK-7cL6w&utm_medium=api&utm_source=3e209453&v=413BF6B5EC97377907CCD731BA5BD260A9D73BE7",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-04-15T15:07:51Z"
