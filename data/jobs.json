@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-06-15T09:44:28.911Z",
-  "count": 86,
+  "updated_at": "2026-06-16T09:09:37.044Z",
+  "count": 83,
   "sources": {
     "manual": 5,
     "greenhouse": 11,
     "lever": 1,
-    "adzuna": 101
+    "adzuna": 98
   },
   "jobs": [
+    {
+      "id": "adzuna-5764243677",
+      "title": "HCL Hiring Fresher (2024/2025) Semi Voice Process -MM certification / knowledge (Material Master) _ Bengaluru, Karnataka.",
+      "company": "HCLTech",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/land/ad/5764243677?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=F3E4FD6B66C96FE2BF5A741FC3D0798C1AAAD5B8",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-06-15T15:25:06Z"
+    },
     {
       "id": "adzuna-5763491416",
       "title": "Customer Support Associate",
       "company": "WNS",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5763491416?se=jCdfxZ5o8RGZ4YetJ9AKTQ&utm_medium=api&utm_source=3e209453&v=D3998E37BCF4D3E2384135E2DBFA3DA311474F33",
+      "apply_url": "https://www.adzuna.in/land/ad/5763491416?se=ENhQEWNp8RGdcKmg89akZw&utm_medium=api&utm_source=3e209453&v=D3998E37BCF4D3E2384135E2DBFA3DA311474F33",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -25,7 +35,7 @@
       "title": "Customer Support Associate",
       "company": "WNS",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5763490592?se=jCdfxZ5o8RGZ4YetJ9AKTQ&utm_medium=api&utm_source=3e209453&v=0AB6F65339AD43921FE55BDA4AC61AF89F8195AD",
+      "apply_url": "https://www.adzuna.in/land/ad/5763490592?se=ENhQEWNp8RGdcKmg89akZw&utm_medium=api&utm_source=3e209453&v=0AB6F65339AD43921FE55BDA4AC61AF89F8195AD",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -33,23 +43,11 @@
       "posted_at": "2026-06-14T14:45:48Z"
     },
     {
-      "id": "adzuna-5762820280",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5762820280?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-06-14T02:20:34Z"
-    },
-    {
       "id": "adzuna-5762136488",
       "title": "Exclusive Diversity Walk in drive for \"Freshers\" \"Banking & Finance \" at Jaipur Location on 16th June 2026",
       "company": "Infosys BPM",
       "location": "Jaipur, Rajasthan",
-      "apply_url": "https://www.adzuna.in/land/ad/5762136488?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=EA4E5C067B3F46F2AB50BE6225F06511AC8A0C93",
+      "apply_url": "https://www.adzuna.in/land/ad/5762136488?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=EA4E5C067B3F46F2AB50BE6225F06511AC8A0C93",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-06-13T10:53:19Z"
@@ -59,7 +57,7 @@
       "title": "HCL Technologies | Walk-In Hiring | International Banking Non-Voice",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5762128116?se=bFriyp5o8RGmNfxg1jfgmQ&utm_medium=api&utm_source=3e209453&v=CB0B5AAACC34BCE12984B9C19D6248048AA4753E",
+      "apply_url": "https://www.adzuna.in/land/ad/5762128116?se=yq9zFmNp8RGmpfo0sbJdLA&utm_medium=api&utm_source=3e209453&v=CB0B5AAACC34BCE12984B9C19D6248048AA4753E",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -104,6 +102,18 @@
         "analyst"
       ],
       "posted_at": "2026-06-12T10:26:13Z"
+    },
+    {
+      "id": "adzuna-5760412918",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5760412918?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-06-12T02:36:24Z"
     },
     {
       "id": "greenhouse-okta-7975735",
@@ -199,26 +209,12 @@
       "title": "Virtual Interview _HCL Tech_ Hiring Fresher (2024/2025)_Process associate _ voice Process for O2C Domain_Bangalore_9th June 2026 from 12:00pm to 2:00pm",
       "company": "HCLTech",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5758516972?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=726AEB4ABE8462F870245B4D6E7544D25F6D04F1",
+      "apply_url": "https://www.adzuna.in/land/ad/5758516972?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=726AEB4ABE8462F870245B4D6E7544D25F6D04F1",
       "source": "Adzuna",
       "tags": [
         "associate"
       ],
       "posted_at": "2026-06-10T18:05:04Z"
-    },
-    {
-      "id": "adzuna-5757634649",
-      "title": "Graduate Apprentice Trainee",
-      "company": "Kimberly-Clark",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5757634649?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "apprenticeship",
-        "graduate",
-        "trainee"
-      ],
-      "posted_at": "2026-06-10T02:44:23Z"
     },
     {
       "id": "greenhouse-stripe-7543868",
@@ -307,10 +303,10 @@
     },
     {
       "id": "adzuna-5755190636",
-      "title": "HCL Hiring Fresher (2024/2025) Process associate_ Voice Process_ Walkin Drive on_ 8th June 2026_2:30 PM - 4:30 PM @ Sholinganallur",
+      "title": "HCL Hiring Fresher_ Process associate_ Voice Process_ Walkin Drive on_ 17th June 2026_Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5755190636?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=815E3A662E50520DE2B216C7C2EF5B0C36BA897A",
+      "apply_url": "https://www.adzuna.in/land/ad/5755190636?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=815E3A662E50520DE2B216C7C2EF5B0C36BA897A",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -335,7 +331,7 @@
       "title": "Loans Enablement Group",
       "company": "Deutsche Bank",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5753192711?se=MNE3zJ5o8RGkWLKt4v5GuQ&utm_medium=api&utm_source=3e209453&v=8BB77D0BF97B5ED2FB7A7BC573C27370C5B96FC0",
+      "apply_url": "https://www.adzuna.in/land/ad/5753192711?se=grfQF2Np8RGWZKPICwzMOQ&utm_medium=api&utm_source=3e209453&v=8BB77D0BF97B5ED2FB7A7BC573C27370C5B96FC0",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-06-05T17:20:04Z"
@@ -366,6 +362,18 @@
       "posted_at": "2026-06-05T02:49:26Z"
     },
     {
+      "id": "adzuna-5752410456",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5752410456?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-06-05T02:45:20Z"
+    },
+    {
       "id": "adzuna-5752387786",
       "title": "IN_Intern/Trainee",
       "company": "PricewaterhouseCoopers",
@@ -379,23 +387,11 @@
       "posted_at": "2026-06-05T02:41:20Z"
     },
     {
-      "id": "adzuna-5751935120",
-      "title": "HCL Hiring Fresher Process associate",
-      "company": "HCLTech",
-      "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5751935120?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=A9F9EEEA41233DB118121D719284294818C05D30",
-      "source": "Adzuna",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-06-04T16:50:22Z"
-    },
-    {
       "id": "adzuna-5751932816",
       "title": "HCL Hiring Fresher (2024/2025)_Whitefield Bangalore_ Voice Process for O2C Domain Virtual interview on 2nd June 2026 @ 5pm for Bangalore location.",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5751932816?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=FE0624DC29D6A8CA24CF7BFE32081DE65B4BDC38",
+      "apply_url": "https://www.adzuna.in/land/ad/5751932816?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=FE0624DC29D6A8CA24CF7BFE32081DE65B4BDC38",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-06-04T16:47:42Z"
@@ -405,7 +401,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Process associate_Non Voice Process & semi voice Process_ Walkin Drive on_ Thursday & Friday _ 4th & 5th June2026_11 AM - 2:00 PM @ Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5751932337?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=C467E4671FE57B6388611B2455BBFB085FB1DDC2",
+      "apply_url": "https://www.adzuna.in/land/ad/5751932337?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=C467E4671FE57B6388611B2455BBFB085FB1DDC2",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -430,22 +426,12 @@
       "title": "HCLTech is Hiring for International Voice Process- Walkin Drive on 3rd and 4th June 2026 - Ambattur - 6, Chennai",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5750491760?se=bFriyp5o8RGmNfxg1jfgmQ&utm_medium=api&utm_source=3e209453&v=305486B1545823D05B053FEEB0D11C21218CA5F3",
+      "apply_url": "https://www.adzuna.in/land/ad/5750491760?se=yq9zFmNp8RGmpfo0sbJdLA&utm_medium=api&utm_source=3e209453&v=305486B1545823D05B053FEEB0D11C21218CA5F3",
       "source": "Adzuna",
       "tags": [
         "intern"
       ],
       "posted_at": "2026-06-03T16:38:54Z"
-    },
-    {
-      "id": "adzuna-5750487817",
-      "title": "HCL Hiring Freshers",
-      "company": "HCLTech",
-      "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5750487817?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=9914568993E997DB7CA16B568A213F589D5BF233",
-      "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-06-03T16:36:07Z"
     },
     {
       "id": "adzuna-5748526672",
@@ -513,24 +499,11 @@
       "posted_at": "2026-05-30T10:13:25Z"
     },
     {
-      "id": "adzuna-5743876140",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5743876140?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-05-29T02:24:26Z"
-    },
-    {
       "id": "adzuna-5743507797",
       "title": "HCL Hiring Fresher (2024/2025) Semi Voice Process for Finance & Accounting domain Walkin Drive on_ Saturday_ 30th May 2026_11 AM - 3:00 PM",
       "company": "HCLTech",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5743507797?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=40B01D911D1F2FD2E35B95C7B0089F3690A23DF3",
+      "apply_url": "https://www.adzuna.in/land/ad/5743507797?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=40B01D911D1F2FD2E35B95C7B0089F3690A23DF3",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-28T18:22:28Z"
@@ -540,7 +513,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Process associate _Voice process_ Walkin Drive on Wednesday 27th May 2026_11 AM - 3:00 PM @ Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5743507230?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=2C85B5CBDEC0889DA6EA8D99ABEAC51B9B6A7179",
+      "apply_url": "https://www.adzuna.in/land/ad/5743507230?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=2C85B5CBDEC0889DA6EA8D99ABEAC51B9B6A7179",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -552,7 +525,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Semi Voice Process -MM certification / knowledge (Material Master) _Walkin Drive on_ Saturday_ 30th May 2026_11 AM - 3:00 PM",
       "company": "HCLTech",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5743507180?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=74C0220D2AD8C1D01076DDC0A8E62DA687108684",
+      "apply_url": "https://www.adzuna.in/land/ad/5743507180?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=74C0220D2AD8C1D01076DDC0A8E62DA687108684",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-28T18:20:25Z"
@@ -562,7 +535,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Process associate _ Voice Process _Bangalore Location_ Walkin Drive on_ Saturday_ 30th May 2026_11 AM - 3:00 PM @ Bangalore",
       "company": "HCLTech",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5743506550?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=78F0A035E356004CEF4C5C3D4371988A8B511726",
+      "apply_url": "https://www.adzuna.in/land/ad/5743506550?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=78F0A035E356004CEF4C5C3D4371988A8B511726",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -574,7 +547,7 @@
       "title": "HCL Technologies | Walk-In Hiring | International Banking Non-Voice",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5743505933?se=bFriyp5o8RGmNfxg1jfgmQ&utm_medium=api&utm_source=3e209453&v=060520075738B22F863392B32DD095E980FC9D98",
+      "apply_url": "https://www.adzuna.in/land/ad/5743505933?se=yq9zFmNp8RGmpfo0sbJdLA&utm_medium=api&utm_source=3e209453&v=060520075738B22F863392B32DD095E980FC9D98",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -586,7 +559,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Process associate _semi voice Process_ Walkin Drive on_ Thursday _ 28th May 2026_11 AM - 2:00 PM @ Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5742256991?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=2E32B6F00FD5AD1E7EE8BF37EF3D185AFBA55605",
+      "apply_url": "https://www.adzuna.in/land/ad/5742256991?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=2E32B6F00FD5AD1E7EE8BF37EF3D185AFBA55605",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -598,7 +571,7 @@
       "title": "Walkin drive for fresher BBA/BCOM/BPharma graduates for S&F Process-Data from batch 2023 to 2025 at Pune on 29th May 2026 (No BE & Post Graduate not eligible).",
       "company": "Infosys BPM",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5742256906?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=8BFE592C49BD7673E8D3FD8E2EC631DD13F24AD9",
+      "apply_url": "https://www.adzuna.in/land/ad/5742256906?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=8BFE592C49BD7673E8D3FD8E2EC631DD13F24AD9",
       "source": "Adzuna",
       "tags": [
         "graduate"
@@ -610,7 +583,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Process associate _Voice process & semi voice Walkin Drive on_ Saturday_ 23rd May 2026_11 AM - 3:00 PM @ Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5739767758?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=BEC2C8786743F6A19BA158194299BA0791348499",
+      "apply_url": "https://www.adzuna.in/land/ad/5739767758?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=BEC2C8786743F6A19BA158194299BA0791348499",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -622,24 +595,12 @@
       "title": "HCL Hiring Fresher (2024/2025) Process associate _Voice process & semi voice Walkin Drive on_ Saturday_ 23rd May 2026_9 AM - 12 PM @ Ambattur, Chennai, Tamil Nadu",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5739767573?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=E242CF69B8E19BD7673798E6C58893C8659E60AD",
+      "apply_url": "https://www.adzuna.in/land/ad/5739767573?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=E242CF69B8E19BD7673798E6C58893C8659E60AD",
       "source": "Adzuna",
       "tags": [
         "associate"
       ],
       "posted_at": "2026-05-24T17:55:56Z"
-    },
-    {
-      "id": "adzuna-5734684164",
-      "title": "HR Apprentice",
-      "company": "CMA CGM",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5734684164?se=jCdfxZ5o8RGZ4YetJ9AKTQ&utm_medium=api&utm_source=3e209453&v=F4ECF08A9F6A037474CC8DFEB091867476AB2489",
-      "source": "Adzuna",
-      "tags": [
-        "apprenticeship"
-      ],
-      "posted_at": "2026-05-20T07:24:30Z"
     },
     {
       "id": "pwc-risk-consulting-bengaluru-301974",
@@ -660,7 +621,7 @@
       "title": "HCL Hiring Fresher (2024/2025) Semi-Voice Process for Finance & Accounting domain Walkin Drive on_ 18th May 2026_1 PM - 4:00 PM @ Sholinganallur",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5733974668?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=D5ACAFD4B5E98439E9E9E96DE6A716BCD06F545F",
+      "apply_url": "https://www.adzuna.in/land/ad/5733974668?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=D5ACAFD4B5E98439E9E9E96DE6A716BCD06F545F",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-05-19T17:24:41Z"
@@ -906,7 +867,7 @@
       "title": "Sales Executive",
       "company": "Policybazaar.com",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5714788347?se=hue3xp5o8RGJt5LAxIaCWw&utm_medium=api&utm_source=3e209453&v=6E13112E1ABBBC3D5F5FA4648E262E2AA9D2D75E",
+      "apply_url": "https://www.adzuna.in/land/ad/5714788347?se=aNKJEmNp8RGjKJIWHOfiKg&utm_medium=api&utm_source=3e209453&v=6E13112E1ABBBC3D5F5FA4648E262E2AA9D2D75E",
       "source": "Adzuna",
       "tags": [
         "sales"
