@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-07-20T06:33:18.747Z",
-  "count": 71,
+  "updated_at": "2026-07-21T06:12:03.659Z",
+  "count": 72,
   "sources": {
     "manual": 5,
-    "greenhouse": 14,
+    "greenhouse": 13,
     "lever": 0,
-    "adzuna": 87
+    "adzuna": 89
   },
   "jobs": [
+    {
+      "id": "adzuna-5808131728",
+      "title": "TOC MSSQL DBA Operations Engineer (Analyst/Associate/AVP)",
+      "company": "Mizuho",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5808131728?se=BgT_EsuE8RGqDNv7tPSXLQ&utm_medium=api&utm_source=3e209453&v=45CC090A76E73DF50B01CB43102969F35E34DE10",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-07-20T18:27:49Z"
+    },
     {
       "id": "greenhouse-stripe-8066310",
       "title": "Fraud Operations Associate SDC",
@@ -18,7 +31,7 @@
       "tags": [
         "associate"
       ],
-      "posted_at": "2026-07-20T01:52:52-04:00"
+      "posted_at": "2026-07-20T04:48:03-04:00"
     },
     {
       "id": "adzuna-5807487639",
@@ -38,7 +51,7 @@
       "title": "Associate Sales Consultant",
       "company": "Policybazaar.com",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5807168136?se=boWa3ASE8RGVsv9UmNFHLA&utm_medium=api&utm_source=3e209453&v=332C95084F4163D71BCFB7FB73A09321481AD8CB",
+      "apply_url": "https://www.adzuna.in/land/ad/5807168136?se=VKNdDcuE8RGL1fT2QXZtrg&utm_medium=api&utm_source=3e209453&v=332C95084F4163D71BCFB7FB73A09321481AD8CB",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -59,18 +72,6 @@
         "sales"
       ],
       "posted_at": "2026-07-18T06:31:40Z"
-    },
-    {
-      "id": "greenhouse-stripe-8049722",
-      "title": "People Operations Associate - Recruitment Coordination",
-      "company": "Stripe",
-      "location": "IN - Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8049722",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-07-17T05:03:17-04:00"
     },
     {
       "id": "adzuna-5802674901",
@@ -99,11 +100,24 @@
       "posted_at": "2026-07-16T03:30:10Z"
     },
     {
+      "id": "adzuna-5801462837",
+      "title": "Associate Quantitative Analyst",
+      "company": "Morningstar",
+      "location": "Mumbai, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5801462837?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-07-15T23:39:49Z"
+    },
+    {
       "id": "adzuna-5801404543",
       "title": "Associate Sales Consultant",
       "company": "Policybazaar.com",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5801404543?se=boWa3ASE8RGVsv9UmNFHLA&utm_medium=api&utm_source=3e209453&v=A0073964B36385A72A0341175EC50D61850980A1",
+      "apply_url": "https://www.adzuna.in/land/ad/5801404543?se=VKNdDcuE8RGL1fT2QXZtrg&utm_medium=api&utm_source=3e209453&v=A0073964B36385A72A0341175EC50D61850980A1",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -117,7 +131,7 @@
       "title": "Field Sales Executive",
       "company": "Policybazaar.com",
       "location": "Coimbatore, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5801395957?se=boWa3ASE8RGVsv9UmNFHLA&utm_medium=api&utm_source=3e209453&v=615F8694CE55C77CD09CA498DC88F8F43099896D",
+      "apply_url": "https://www.adzuna.in/land/ad/5801395957?se=VKNdDcuE8RGL1fT2QXZtrg&utm_medium=api&utm_source=3e209453&v=615F8694CE55C77CD09CA498DC88F8F43099896D",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -268,7 +282,7 @@
       "title": "Customer Service Specialist",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5797878944?se=boWa3ASE8RGVsv9UmNFHLA&utm_medium=api&utm_source=3e209453&v=DF6B3C255B7073CDF3BFE05ECACE397BEB99EAB6",
+      "apply_url": "https://www.adzuna.in/land/ad/5797878944?se=VKNdDcuE8RGL1fT2QXZtrg&utm_medium=api&utm_source=3e209453&v=DF6B3C255B7073CDF3BFE05ECACE397BEB99EAB6",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-07-12T15:43:18Z"
@@ -291,7 +305,7 @@
       "title": "HCLTech is Hiring for International Voice Process- Walkin Drive on 9th July 2026 - Ambattur - 6, Chennai",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5795948396?se=ahxI4gSE8RGV4Y0E9kA3ig&utm_medium=api&utm_source=3e209453&v=535BB290C470D39F1D35D617A0E25DBCC630C863",
+      "apply_url": "https://www.adzuna.in/land/ad/5795948396?se=BgT_EsuE8RGqDNv7tPSXLQ&utm_medium=api&utm_source=3e209453&v=535BB290C470D39F1D35D617A0E25DBCC630C863",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -355,7 +369,7 @@
       "title": "We are hiring for Accounts Payable with SAP Experience (SAP experience is mandatory)",
       "company": "HCLTech",
       "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/land/ad/5789298096?se=ahxI4gSE8RGV4Y0E9kA3ig&utm_medium=api&utm_source=3e209453&v=F5FD710DADCF71A5ACAE66C8A913DEEB13301ADE",
+      "apply_url": "https://www.adzuna.in/land/ad/5789298096?se=BgT_EsuE8RGqDNv7tPSXLQ&utm_medium=api&utm_source=3e209453&v=F5FD710DADCF71A5ACAE66C8A913DEEB13301ADE",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-07-06T01:33:45Z"
@@ -365,7 +379,7 @@
       "title": "Walkin Drive || International Voice Process|| 3rd July,2026|| Noida",
       "company": "HCLTech",
       "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/land/ad/5787070556?se=ahxI4gSE8RGV4Y0E9kA3ig&utm_medium=api&utm_source=3e209453&v=EADB15BBFD19B25B3E8DED2E476FFCEE9ECB9618",
+      "apply_url": "https://www.adzuna.in/land/ad/5787070556?se=BgT_EsuE8RGqDNv7tPSXLQ&utm_medium=api&utm_source=3e209453&v=EADB15BBFD19B25B3E8DED2E476FFCEE9ECB9618",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -377,7 +391,7 @@
       "title": "TOC Network Operations Engineer (Analyst/Associate/AVP)",
       "company": "Mizuho",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5786785514?se=ahxI4gSE8RGV4Y0E9kA3ig&utm_medium=api&utm_source=3e209453&v=3E133E9162C0746C2B7330764448A7124DFD476D",
+      "apply_url": "https://www.adzuna.in/land/ad/5786785514?se=BgT_EsuE8RGqDNv7tPSXLQ&utm_medium=api&utm_source=3e209453&v=3E133E9162C0746C2B7330764448A7124DFD476D",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -555,6 +569,19 @@
       "posted_at": "2026-06-29T02:26:51Z"
     },
     {
+      "id": "adzuna-5780504819",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "Ahmedabad, Gujarat",
+      "apply_url": "https://www.adzuna.in/details/5780504819?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-06-29T02:22:24Z"
+    },
+    {
       "id": "greenhouse-stripe-8021192",
       "title": "Monetization Operations Analyst",
       "company": "Stripe",
@@ -607,7 +634,7 @@
       "title": "Virtual Interview _HCL Tech_ Hiring Fresher (2024/2026)_Process associate _ Voice Process for Health Care Domain_ Chennai _26th June 2026 from 3pm to 4:30 pm",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5777484192?se=boWa3ASE8RGVsv9UmNFHLA&utm_medium=api&utm_source=3e209453&v=5EEC98E49A02863F52287A8EBC48AA54963142C2",
+      "apply_url": "https://www.adzuna.in/land/ad/5777484192?se=VKNdDcuE8RGL1fT2QXZtrg&utm_medium=api&utm_source=3e209453&v=5EEC98E49A02863F52287A8EBC48AA54963142C2",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -655,24 +682,17 @@
       "posted_at": "2026-06-24T15:04:34Z"
     },
     {
-      "id": "adzuna-5772526185",
-      "title": "HCL Hiring Fresher (2024/2025) _Whitefield Bangalore_ Voice Process for O2C Domain_Virtual interview on 22nd June 2026 @ 6pm to 7:30 pm for Bangalore location",
-      "company": "HCLTech",
+      "id": "adzuna-5771982975",
+      "title": "Business Project Associate Analyst",
+      "company": "Cigna Group",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5772526185?se=boWa3ASE8RGVsv9UmNFHLA&utm_medium=api&utm_source=3e209453&v=15B06E88308858BCD20BA14FECF243272F04FEB3",
+      "apply_url": "https://www.adzuna.in/details/5771982975?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-06-22T17:16:57Z"
-    },
-    {
-      "id": "adzuna-5772525882",
-      "title": "HCL Hiring Fresher (2024/2025) _Whitefield Bangalore_ Voice Process for O2C Domain_Virtual interview on 26th June 2026 @ 5pm to 6:30 pm for Bangalore location.",
-      "company": "HCLTech",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5772525882?se=boWa3ASE8RGVsv9UmNFHLA&utm_medium=api&utm_source=3e209453&v=B076D56876EFC072873F3BF51FEE527713DF011C",
-      "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-06-22T17:14:38Z"
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-06-22T02:39:10Z"
     },
     {
       "id": "adzuna-5770253227",
