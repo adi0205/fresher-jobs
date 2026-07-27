@@ -1,13 +1,77 @@
 {
-  "updated_at": "2026-07-26T06:21:02.138Z",
-  "count": 71,
+  "updated_at": "2026-07-27T06:49:23.113Z",
+  "count": 76,
   "sources": {
     "manual": 5,
-    "greenhouse": 11,
+    "greenhouse": 10,
     "lever": 0,
-    "adzuna": 90
+    "adzuna": 94
   },
   "jobs": [
+    {
+      "id": "adzuna-5817158001",
+      "title": "Associate Analyst - Buyer",
+      "company": "Eaton",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5817158001?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-07-27T10:47:54Z"
+    },
+    {
+      "id": "adzuna-5816841550",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5816841550?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-07-27T03:34:42Z"
+    },
+    {
+      "id": "adzuna-5816837301",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5816837301?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-07-27T03:30:43Z"
+    },
+    {
+      "id": "adzuna-5816827562",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "Goregaon East, Mumbai",
+      "apply_url": "https://www.adzuna.in/details/5816827562?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-07-27T03:21:59Z"
+    },
+    {
+      "id": "adzuna-5816813286",
+      "title": "IN-Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5816813286?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-07-27T03:13:50Z"
+    },
     {
       "id": "adzuna-5815778683",
       "title": "Apprentice, Trainee (Finance Business Intelligence)",
@@ -86,17 +150,16 @@
       "posted_at": "2026-07-25T03:25:18Z"
     },
     {
-      "id": "adzuna-5814461768",
-      "title": "IN_Intern/Trainee",
+      "id": "adzuna-5814396295",
+      "title": "In_Intern",
       "company": "PricewaterhouseCoopers",
-      "location": "Ahmedabad, Gujarat",
-      "apply_url": "https://www.adzuna.in/details/5814461768?utm_medium=api&utm_source=3e209453",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5814396295?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "trainee",
         "intern"
       ],
-      "posted_at": "2026-07-25T03:23:33Z"
+      "posted_at": "2026-07-25T03:13:41Z"
     },
     {
       "id": "adzuna-5814392157",
@@ -163,6 +226,18 @@
       "posted_at": "2026-07-24T03:33:39Z"
     },
     {
+      "id": "adzuna-5812884216",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5812884216?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-07-24T03:30:34Z"
+    },
+    {
       "id": "adzuna-5812785814",
       "title": "IN_Intern/Trainee",
       "company": "PricewaterhouseCoopers",
@@ -219,7 +294,7 @@
       "title": "Accounting & Reporting Analyst - Accounts Payable",
       "company": "ABB",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5811159046?se=6j3_JLqI8RG3tOkLR0Zx3w&utm_medium=api&utm_source=3e209453&v=8B37641E409C45FAAB3AC8AC8E5EB819318C1172",
+      "apply_url": "https://www.adzuna.in/land/ad/5811159046?se=mJUGRYeJ8RGQre5NfI8AFg&utm_medium=api&utm_source=3e209453&v=8B37641E409C45FAAB3AC8AC8E5EB819318C1172",
       "source": "Adzuna",
       "tags": [
         "analyst"
@@ -284,18 +359,6 @@
       "source": "Greenhouse",
       "tags": [
         "analyst"
-      ],
-      "posted_at": "2026-07-22T13:25:41-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7780256",
-      "title": "Operations Associate, GTM Accelerate (Bangalore)",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7780256",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
       ],
       "posted_at": "2026-07-22T13:25:41-04:00"
     },
@@ -392,7 +455,7 @@
       "title": "Accounting & Reporting Analyst - Accounts Payable",
       "company": "ABB",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5800931669?se=6j3_JLqI8RG3tOkLR0Zx3w&utm_medium=api&utm_source=3e209453&v=D90A98A8E6FF67173DA9B4786DA2F2F81A4C557E",
+      "apply_url": "https://www.adzuna.in/land/ad/5800931669?se=mJUGRYeJ8RGQre5NfI8AFg&utm_medium=api&utm_source=3e209453&v=D90A98A8E6FF67173DA9B4786DA2F2F81A4C557E",
       "source": "Adzuna",
       "tags": [
         "analyst"
@@ -463,6 +526,19 @@
         "intern"
       ],
       "posted_at": "2026-07-13T03:25:21Z"
+    },
+    {
+      "id": "adzuna-5798265324",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5798265324?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-07-13T03:16:03Z"
     },
     {
       "id": "adzuna-5797637544",
@@ -669,19 +745,6 @@
         "intern"
       ],
       "posted_at": "2026-06-29T02:26:51Z"
-    },
-    {
-      "id": "adzuna-5780504819",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "Ahmedabad, Gujarat",
-      "apply_url": "https://www.adzuna.in/details/5780504819?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-06-29T02:22:24Z"
     },
     {
       "id": "adzuna-5779828322",
