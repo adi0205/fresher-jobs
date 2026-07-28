@@ -1,13 +1,74 @@
 {
-  "updated_at": "2026-07-27T06:49:23.113Z",
-  "count": 76,
+  "updated_at": "2026-07-28T06:08:55.761Z",
+  "count": 75,
   "sources": {
     "manual": 5,
-    "greenhouse": 10,
+    "greenhouse": 9,
     "lever": 0,
-    "adzuna": 94
+    "adzuna": 93
   },
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7179634",
+      "title": "Bridge - Operations Associate ",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7179634",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-07-27T11:17:30-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8066264",
+      "title": "Financial Analyst, Business F&S",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066264",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-07-27T11:17:30-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8021192",
+      "title": "Monetization Operations Analyst",
+      "company": "Stripe",
+      "location": "IN - Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8021192",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-07-27T11:17:30-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7962437",
+      "title": "Social Media, Customer Support Associate",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-07-27T11:17:30-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7543868",
+      "title": "Software Engineer, Internal Systems",
+      "company": "Stripe",
+      "location": "Bengaluru, India",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "source": "Greenhouse",
+      "tags": [
+        "intern",
+        "engineering"
+      ],
+      "posted_at": "2026-07-27T11:17:30-04:00"
+    },
     {
       "id": "adzuna-5817158001",
       "title": "Associate Analyst - Buyer",
@@ -294,7 +355,7 @@
       "title": "Accounting & Reporting Analyst - Accounts Payable",
       "company": "ABB",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5811159046?se=mJUGRYeJ8RGQre5NfI8AFg&utm_medium=api&utm_source=3e209453&v=8B37641E409C45FAAB3AC8AC8E5EB819318C1172",
+      "apply_url": "https://www.adzuna.in/land/ad/5811159046?se=ovyEyEqK8RG976Z7Kh6xVw&utm_medium=api&utm_source=3e209453&v=8B37641E409C45FAAB3AC8AC8E5EB819318C1172",
       "source": "Adzuna",
       "tags": [
         "analyst"
@@ -313,54 +374,6 @@
         "analyst"
       ],
       "posted_at": "2026-07-22T21:23:16Z"
-    },
-    {
-      "id": "greenhouse-stripe-7179634",
-      "title": "Bridge - Operations Associate ",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7179634",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-07-22T13:25:41-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7957302",
-      "title": "Bridge Operations Associate ",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7957302",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-07-22T13:25:41-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8066264",
-      "title": "Financial Analyst, Business F&S",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066264",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-07-22T13:25:41-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8021192",
-      "title": "Monetization Operations Analyst",
-      "company": "Stripe",
-      "location": "IN - Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8021192",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-07-22T13:25:41-04:00"
     },
     {
       "id": "greenhouse-stripe-7975698",
@@ -387,36 +400,11 @@
       "posted_at": "2026-07-22T13:25:41-04:00"
     },
     {
-      "id": "greenhouse-stripe-7962437",
-      "title": "Social Media, Customer Support Associate",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-07-22T13:25:41-04:00"
-    },
-    {
       "id": "greenhouse-stripe-8031833",
       "title": "Software Engineer, Intern",
       "company": "Stripe",
       "location": "Bengaluru",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "source": "Greenhouse",
-      "tags": [
-        "intern",
-        "engineering"
-      ],
-      "posted_at": "2026-07-22T13:25:41-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7543868",
-      "title": "Software Engineer, Internal Systems",
-      "company": "Stripe",
-      "location": "Bengaluru, India",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7543868",
       "source": "Greenhouse",
       "tags": [
         "intern",
@@ -455,7 +443,7 @@
       "title": "Accounting & Reporting Analyst - Accounts Payable",
       "company": "ABB",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5800931669?se=mJUGRYeJ8RGQre5NfI8AFg&utm_medium=api&utm_source=3e209453&v=D90A98A8E6FF67173DA9B4786DA2F2F81A4C557E",
+      "apply_url": "https://www.adzuna.in/land/ad/5800931669?se=ovyEyEqK8RG976Z7Kh6xVw&utm_medium=api&utm_source=3e209453&v=D90A98A8E6FF67173DA9B4786DA2F2F81A4C557E",
       "source": "Adzuna",
       "tags": [
         "analyst"
