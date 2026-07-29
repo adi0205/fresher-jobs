@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-07-28T06:08:55.761Z",
-  "count": 75,
+  "updated_at": "2026-07-29T06:14:20.702Z",
+  "count": 71,
   "sources": {
     "manual": 5,
     "greenhouse": 9,
     "lever": 0,
-    "adzuna": 93
+    "adzuna": 94
   },
   "jobs": [
+    {
+      "id": "adzuna-5819192901",
+      "title": "Associate System Analyst",
+      "company": "Amgen Technology",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/details/5819192901?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-07-29T07:50:09Z"
+    },
     {
       "id": "greenhouse-stripe-7179634",
       "title": "Bridge - Operations Associate ",
@@ -81,31 +94,6 @@
         "analyst"
       ],
       "posted_at": "2026-07-27T10:47:54Z"
-    },
-    {
-      "id": "adzuna-5816841550",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5816841550?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-07-27T03:34:42Z"
-    },
-    {
-      "id": "adzuna-5816837301",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5816837301?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-07-27T03:30:43Z"
     },
     {
       "id": "adzuna-5816827562",
@@ -211,18 +199,6 @@
       "posted_at": "2026-07-25T03:25:18Z"
     },
     {
-      "id": "adzuna-5814396295",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5814396295?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-07-25T03:13:41Z"
-    },
-    {
       "id": "adzuna-5814392157",
       "title": "IN_Intern",
       "company": "PricewaterhouseCoopers",
@@ -246,6 +222,16 @@
         "trainee"
       ],
       "posted_at": "2026-07-24T21:27:32Z"
+    },
+    {
+      "id": "adzuna-5813978820",
+      "title": "HCL Hiring Fresher (2024/2026) Semi Voice Process -MM certification / knowledge (Material Master) _Walkin Drive on_ Saturday_ 25TH JULY 2026",
+      "company": "HCLTech",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/land/ad/5813978820?se=ksz0tBSL8RGh4YMJCQ8cOQ&utm_medium=api&utm_source=3e209453&v=4BDCDCAD819084150F21E2116D859B74B44F531E",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-07-24T21:01:20Z"
     },
     {
       "id": "adzuna-5813416377",
@@ -355,7 +341,7 @@
       "title": "Accounting & Reporting Analyst - Accounts Payable",
       "company": "ABB",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5811159046?se=ovyEyEqK8RG976Z7Kh6xVw&utm_medium=api&utm_source=3e209453&v=8B37641E409C45FAAB3AC8AC8E5EB819318C1172",
+      "apply_url": "https://www.adzuna.in/land/ad/5811159046?se=ksz0tBSL8RGh4YMJCQ8cOQ&utm_medium=api&utm_source=3e209453&v=8B37641E409C45FAAB3AC8AC8E5EB819318C1172",
       "source": "Adzuna",
       "tags": [
         "analyst"
@@ -443,7 +429,7 @@
       "title": "Accounting & Reporting Analyst - Accounts Payable",
       "company": "ABB",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5800931669?se=ovyEyEqK8RG976Z7Kh6xVw&utm_medium=api&utm_source=3e209453&v=D90A98A8E6FF67173DA9B4786DA2F2F81A4C557E",
+      "apply_url": "https://www.adzuna.in/land/ad/5800931669?se=ksz0tBSL8RGh4YMJCQ8cOQ&utm_medium=api&utm_source=3e209453&v=D90A98A8E6FF67173DA9B4786DA2F2F81A4C557E",
       "source": "Adzuna",
       "tags": [
         "analyst"
@@ -568,18 +554,6 @@
       "posted_at": "2026-07-06T19:28:57Z"
     },
     {
-      "id": "adzuna-5789388412",
-      "title": "HR Operations - Intern- Noida",
-      "company": "Paytm Payments Services",
-      "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/details/5789388412?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-07-06T03:21:22Z"
-    },
-    {
       "id": "adzuna-5782686538",
       "title": "Associate Analyst,Accounting & Reporting",
       "company": "Colgate-Palmolive",
@@ -656,19 +630,6 @@
         "intern"
       ],
       "posted_at": "2026-06-29T02:49:34Z"
-    },
-    {
-      "id": "adzuna-5780533217",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5780533217?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-06-29T02:42:41Z"
     },
     {
       "id": "adzuna-5780532529",
@@ -901,19 +862,6 @@
         "analyst"
       ],
       "posted_at": "2026-06-11T06:51:28Z"
-    },
-    {
-      "id": "adzuna-5756742461",
-      "title": "Sales Associate",
-      "company": "Reliance Retail",
-      "location": "Mulund West, Mumbai",
-      "apply_url": "https://www.adzuna.in/details/5756742461?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "sales"
-      ],
-      "posted_at": "2026-06-09T06:38:53Z"
     },
     {
       "id": "adzuna-5748526672",
