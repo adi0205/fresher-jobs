@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-08-16T04:08:18.249Z",
-  "count": 68,
+  "updated_at": "2026-08-17T04:12:11.066Z",
+  "count": 61,
   "sources": {
     "manual": 5,
     "greenhouse": 16,
     "lever": 0,
-    "adzuna": 82
+    "adzuna": 72
   },
   "jobs": [
+    {
+      "id": "adzuna-5844293302",
+      "title": "Associate Analyst (Supply Chain, Freight Pay, Transportation)",
+      "company": "Lowe's Home Centers",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/details/5844293302?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-08-16T20:44:24Z"
+    },
     {
       "id": "adzuna-5843158602",
       "title": "IN_Intern/Trainee",
@@ -20,6 +33,18 @@
         "intern"
       ],
       "posted_at": "2026-08-15T20:46:15Z"
+    },
+    {
+      "id": "adzuna-5843158441",
+      "title": "Interns",
+      "company": "Genpact",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5843158441?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-08-15T20:46:06Z"
     },
     {
       "id": "adzuna-5841446897",
@@ -99,19 +124,6 @@
       "posted_at": "2026-08-13T20:54:50Z"
     },
     {
-      "id": "adzuna-5840381793",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5840381793?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-08-13T20:48:49Z"
-    },
-    {
       "id": "adzuna-5840375645",
       "title": "CA Intern (Industrial Trainee)",
       "company": "RTX",
@@ -149,19 +161,6 @@
         "trainee"
       ],
       "posted_at": "2026-08-12T20:57:19Z"
-    },
-    {
-      "id": "adzuna-5838467498",
-      "title": "Associate - Data Analyst",
-      "company": "AstraZeneca",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5838467498?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-12T20:53:12Z"
     },
     {
       "id": "greenhouse-stripe-7923895",
@@ -251,16 +250,17 @@
       "posted_at": "2026-08-10T06:49:20-04:00"
     },
     {
-      "id": "adzuna-5834749118",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
+      "id": "adzuna-5834759402",
+      "title": "NNA Analytics & Insights, Associate/Analyst, WM Admin, Wealth Management",
+      "company": "Morgan Stanley",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5834749118?utm_medium=api&utm_source=3e209453",
+      "apply_url": "https://www.adzuna.in/details/5834759402?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "intern"
+        "associate",
+        "analyst"
       ],
-      "posted_at": "2026-08-09T20:46:15Z"
+      "posted_at": "2026-08-09T20:54:18Z"
     },
     {
       "id": "adzuna-5834745414",
@@ -300,19 +300,6 @@
         "analyst"
       ],
       "posted_at": "2026-08-09T06:51:55Z"
-    },
-    {
-      "id": "adzuna-5833576935",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5833576935?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-08-08T20:37:05Z"
     },
     {
       "id": "adzuna-5833576881",
@@ -480,7 +467,7 @@
       "title": "Early Careers: 2026 Graduate Actuarial Trainee (Intern) - Gurugram",
       "company": "WTW",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5828130268?se=ribnFiiZ8RGJftUyzQ0_4w&utm_medium=api&utm_source=3e209453&v=0523A67999D0A08B83192FA8E58958A4253F0F5F",
+      "apply_url": "https://www.adzuna.in/land/ad/5828130268?se=gioczPGZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=3e209453&v=0523A67999D0A08B83192FA8E58958A4253F0F5F",
       "source": "Adzuna",
       "tags": [
         "graduate",
@@ -503,6 +490,18 @@
       "posted_at": "2026-08-03T03:12:34-04:00"
     },
     {
+      "id": "adzuna-5825816845",
+      "title": "Capabilities and Insights Analyst - Industrial HighTech",
+      "company": "McKinsey & Company",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5825816845?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-08-02T21:35:03Z"
+    },
+    {
       "id": "adzuna-5825763984",
       "title": "IN_Intern/Trainee",
       "company": "PricewaterhouseCoopers",
@@ -520,10 +519,23 @@
       "title": "HCL Hiring Fresher (2024/2026) Semi Voice Process -MM certification / knowledge (Material Master) _ Bangalore Location_ Virtual interview drive",
       "company": "HCLTech",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5825675061?se=IJQyFCiZ8RGJftUyzQ0_4w&utm_medium=api&utm_source=3e209453&v=EF6D06052236237A76618C450490B2E4BA4F884C",
+      "apply_url": "https://www.adzuna.in/land/ad/5825675061?se=IuCbyfGZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=3e209453&v=EF6D06052236237A76618C450490B2E4BA4F884C",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-02T17:36:38Z"
+    },
+    {
+      "id": "adzuna-5823802851",
+      "title": "Associate Analyst - TAX - TMT - TAX - Indirect Tax - Core - Mumbai",
+      "company": "EY",
+      "location": "Mumbai, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5823802851?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-08-01T15:56:29Z"
     },
     {
       "id": "adzuna-5823127893",
@@ -562,19 +574,6 @@
       "posted_at": "2026-08-01T06:46:30Z"
     },
     {
-      "id": "adzuna-5822543549",
-      "title": "Associate/Analyst – Commercial Pharma Analytics",
-      "company": "AstraZeneca",
-      "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/details/5822543549?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-07-31T21:30:47Z"
-    },
-    {
       "id": "adzuna-5819192901",
       "title": "Associate System Analyst",
       "company": "Amgen Technology",
@@ -586,19 +585,6 @@
         "analyst"
       ],
       "posted_at": "2026-07-29T07:50:09Z"
-    },
-    {
-      "id": "adzuna-5816827562",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "Goregaon East, Mumbai",
-      "apply_url": "https://www.adzuna.in/details/5816827562?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-07-27T03:21:59Z"
     },
     {
       "id": "adzuna-5815778683",
@@ -631,25 +617,12 @@
       "title": "HCL Hiring Fresher (2024/2026) Process associate _ Voice Process _Bangalore Location_ Walkin Drive on_ Saturday_ 25th July 2026",
       "company": "HCLTech",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5814227603?se=IJQyFCiZ8RGJftUyzQ0_4w&utm_medium=api&utm_source=3e209453&v=A0CB9E1D02E4BE910D3D2046CFA937749D3EAAF7",
+      "apply_url": "https://www.adzuna.in/land/ad/5814227603?se=IuCbyfGZ8RGqM9tlrK2FfQ&utm_medium=api&utm_source=3e209453&v=A0CB9E1D02E4BE910D3D2046CFA937749D3EAAF7",
       "source": "Adzuna",
       "tags": [
         "associate"
       ],
       "posted_at": "2026-07-24T23:01:49Z"
-    },
-    {
-      "id": "adzuna-5814090517",
-      "title": "Apprentice - F&B Service (Trainee)",
-      "company": "Accor",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5814090517?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "apprenticeship",
-        "trainee"
-      ],
-      "posted_at": "2026-07-24T21:27:32Z"
     },
     {
       "id": "adzuna-5812903383",
@@ -715,19 +688,6 @@
         "analyst"
       ],
       "posted_at": "2026-07-13T10:42:56Z"
-    },
-    {
-      "id": "adzuna-5798265324",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5798265324?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-07-13T03:16:03Z"
     },
     {
       "id": "adzuna-5782686538",
@@ -796,7 +756,7 @@
     },
     {
       "id": "adzuna-5770253227",
-      "title": "Associate Analyst - SCM Finance",
+      "title": "Associate Analyst.FIN.General.FSC",
       "company": "Eaton",
       "location": "Pune, Maharashtra",
       "apply_url": "https://www.adzuna.in/details/5770253227?utm_medium=api&utm_source=3e209453",
@@ -808,69 +768,17 @@
       "posted_at": "2026-06-20T11:02:53Z"
     },
     {
-      "id": "adzuna-5768788670",
-      "title": "Associate Business Analyst",
-      "company": "Novo Nordisk",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5768788670?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-06-19T07:21:10Z"
-    },
-    {
-      "id": "adzuna-5768788653",
-      "title": "Associate Analyst - Graphic Design",
-      "company": "Novo Nordisk",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5768788653?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-06-19T07:21:09Z"
-    },
-    {
-      "id": "adzuna-5768788540",
-      "title": "Associate Analyst - Tableau & Alteryx",
-      "company": "Novo Nordisk",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5768788540?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-06-19T07:21:06Z"
-    },
-    {
-      "id": "adzuna-5768788492",
-      "title": "Associate Business Analyst",
-      "company": "Novo Nordisk",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5768788492?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-06-19T07:21:05Z"
-    },
-    {
-      "id": "adzuna-5767096176",
+      "id": "adzuna-5768994924",
       "title": "Associate Business Analyst",
       "company": "Amgen",
       "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/details/5767096176?utm_medium=api&utm_source=3e209453",
+      "apply_url": "https://www.adzuna.in/details/5768994924?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
         "associate",
         "analyst"
       ],
-      "posted_at": "2026-06-18T03:04:12Z"
+      "posted_at": "2026-06-19T10:24:59Z"
     }
   ]
 }
