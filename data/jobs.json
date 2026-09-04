@@ -1,13 +1,63 @@
 {
-  "updated_at": "2026-09-03T08:14:26.512Z",
-  "count": 76,
+  "updated_at": "2026-09-04T08:10:28.252Z",
+  "count": 79,
   "sources": {
     "manual": 5,
-    "greenhouse": 15,
+    "greenhouse": 17,
     "lever": 0,
-    "adzuna": 91
+    "adzuna": 92
   },
   "jobs": [
+    {
+      "id": "greenhouse-stripe-7957302",
+      "title": "Bridge Operations Associate ",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7957302",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-04T02:14:53-04:00"
+    },
+    {
+      "id": "adzuna-5869485079",
+      "title": "Associate Analyst - Quality Operations",
+      "company": "Novartis",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5869485079?se=_tlEFDio8RGFQ8r7cmJIsQ&utm_medium=api&utm_source=3e209453&v=7947B36D88819442ACF8C350B584463FF55E76EB",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-09-04T00:32:08Z"
+    },
+    {
+      "id": "adzuna-5869199836",
+      "title": "Associate Analyst - Quality Operations",
+      "company": "Novartis",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5869199836?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-09-03T21:24:09Z"
+    },
+    {
+      "id": "greenhouse-airbnb-8074145",
+      "title": "WFM Analyst",
+      "company": "Airbnb",
+      "location": "India",
+      "apply_url": "https://careers.airbnb.com/positions/8074145?gh_jid=8074145",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-09-03T08:00:07-04:00"
+    },
     {
       "id": "adzuna-5868423206",
       "title": "Associate Analyst - Operations Performance & Analytics",
@@ -50,7 +100,7 @@
       "title": "Walk-in-Drive | HCLTech | IT Audits and Access Management | Gurugram | 29th Aug | 11 AM-2 PM | Freshers only",
       "company": "HCLTech",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5867264976?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=12B7F395AB25A118C524F47F7933C5CFD0D5C052",
+      "apply_url": "https://www.adzuna.in/land/ad/5867264976?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=12B7F395AB25A118C524F47F7933C5CFD0D5C052",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-09-02T21:45:48Z"
@@ -73,7 +123,7 @@
       "title": "Customer Service Representative",
       "company": "UnitedHealth Group",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5867035830?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=E9C1A42A494BC2B12E538A8479DED013F04F1CC7",
+      "apply_url": "https://www.adzuna.in/land/ad/5867035830?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=E9C1A42A494BC2B12E538A8479DED013F04F1CC7",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-09-02T16:41:39Z"
@@ -155,6 +205,19 @@
       "posted_at": "2026-08-30T11:23:53Z"
     },
     {
+      "id": "adzuna-5860969699",
+      "title": "Associate Finance Analyst",
+      "company": "DHL",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/details/5860969699?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-08-29T16:06:33Z"
+    },
+    {
       "id": "adzuna-5860805287",
       "title": "Associate Analyst, Analytics & Metrics",
       "company": "Mastercard",
@@ -166,19 +229,6 @@
         "analyst"
       ],
       "posted_at": "2026-08-29T11:25:45Z"
-    },
-    {
-      "id": "adzuna-5860300712",
-      "title": "Threat Intelligence Analyst – Associate",
-      "company": "Deutsche Bank",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5860300712?se=9Brxd2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=7C67B3958F8EDA8547158F9E2C04F7293FBCB9F1",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-29T04:13:08Z"
     },
     {
       "id": "adzuna-5859075097",
@@ -198,7 +248,7 @@
       "title": "Intern- Fashion Designing & Styling",
       "company": "Dentsu Amp",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5858623154?se=oKiGdm-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=E96FBCDAFC1389060C81BA723F3806ED0D50726F",
+      "apply_url": "https://www.adzuna.in/land/ad/5858623154?se=NrrJEjio8RGFQ8r7cmJIsQ&utm_medium=api&utm_source=3e209453&v=E96FBCDAFC1389060C81BA723F3806ED0D50726F",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -210,7 +260,7 @@
       "title": "voice process",
       "company": "Sutherland",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5858623041?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=EFE6ED01B367C3DD8A85FD126E5E098444F0E6C3",
+      "apply_url": "https://www.adzuna.in/land/ad/5858623041?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=EFE6ED01B367C3DD8A85FD126E5E098444F0E6C3",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-27T23:59:53Z"
@@ -241,19 +291,6 @@
       "posted_at": "2026-08-27T06:26:07-04:00"
     },
     {
-      "id": "adzuna-5856968718",
-      "title": "IND-Associate Analyst",
-      "company": "Lowe's Home Centers",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5856968718?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-26T20:55:32Z"
-    },
-    {
       "id": "greenhouse-okta-8155883",
       "title": "Associate Solutions Engineer, Okta",
       "company": "Okta",
@@ -265,6 +302,19 @@
         "engineering"
       ],
       "posted_at": "2026-08-25T07:20:05-04:00"
+    },
+    {
+      "id": "adzuna-5853367322",
+      "title": "Associate Data Analyst",
+      "company": "Eaton",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5853367322?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-08-23T11:17:06Z"
     },
     {
       "id": "adzuna-5852586012",
@@ -284,7 +334,7 @@
       "title": "Associate Finance Analyst - I",
       "company": "Morningstar",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5851435813?se=9Brxd2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=729B27B8E0C843E318A2156C620EC813EFFCF69C",
+      "apply_url": "https://www.adzuna.in/land/ad/5851435813?se=_tlEFDio8RGFQ8r7cmJIsQ&utm_medium=api&utm_source=3e209453&v=729B27B8E0C843E318A2156C620EC813EFFCF69C",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -336,7 +386,7 @@
       "title": "Customer Care Executive",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5849579017?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=87A3D5DB9BCA120F822ABBED516EE856811EC64B",
+      "apply_url": "https://www.adzuna.in/land/ad/5849579017?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=87A3D5DB9BCA120F822ABBED516EE856811EC64B",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-20T17:58:26Z"
@@ -346,7 +396,7 @@
       "title": "Associate",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5849578979?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=F905F6EBF73FF9969D4F0EE97A47BEA0E785DEE4",
+      "apply_url": "https://www.adzuna.in/land/ad/5849578979?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=F905F6EBF73FF9969D4F0EE97A47BEA0E785DEE4",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -358,7 +408,7 @@
       "title": "Sales Executive",
       "company": "Policybazaar.com",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5849577434?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=B749DE0245E937EA63EE9371D23631DA95417C74",
+      "apply_url": "https://www.adzuna.in/land/ad/5849577434?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=B749DE0245E937EA63EE9371D23631DA95417C74",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -396,7 +446,7 @@
       "title": "Customer Support Executive",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5848121585?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=D55C188EAB4E94DF36272CE59A6CE9DEFAE0D707",
+      "apply_url": "https://www.adzuna.in/land/ad/5848121585?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=D55C188EAB4E94DF36272CE59A6CE9DEFAE0D707",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-19T17:15:49Z"
@@ -504,7 +554,7 @@
       "title": "Associate Analyst, Delivery Strategy Operations",
       "company": "Invesco",
       "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/land/ad/5846723018?se=9Brxd2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=A504255D2123B9200C02B267ABE76528329596AD",
+      "apply_url": "https://www.adzuna.in/land/ad/5846723018?se=_tlEFDio8RGFQ8r7cmJIsQ&utm_medium=api&utm_source=3e209453&v=A504255D2123B9200C02B267ABE76528329596AD",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -517,7 +567,7 @@
       "title": "Field Sales Executive | Bangalore | Fresher & Experienced |",
       "company": "Policybazaar.com",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5846664799?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=BDF154DF5B6CB3FBD3042479B790197FA79BB2C9",
+      "apply_url": "https://www.adzuna.in/land/ad/5846664799?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=BDF154DF5B6CB3FBD3042479B790197FA79BB2C9",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -529,7 +579,7 @@
       "title": "Customer Sales Specialist",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846300438?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=3F39F5FB695E028B1FAA75328C57288C961A354D",
+      "apply_url": "https://www.adzuna.in/land/ad/5846300438?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=3F39F5FB695E028B1FAA75328C57288C961A354D",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -541,7 +591,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846300423?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=4C1FEDCCDD53C933F071E1118FF58F7473A74B24",
+      "apply_url": "https://www.adzuna.in/land/ad/5846300423?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=4C1FEDCCDD53C933F071E1118FF58F7473A74B24",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:10:14Z"
@@ -551,7 +601,7 @@
       "title": "HNI",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846300369?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=B0A687D9AD7F2BE81B5EF08219C03F277B55A260",
+      "apply_url": "https://www.adzuna.in/land/ad/5846300369?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=B0A687D9AD7F2BE81B5EF08219C03F277B55A260",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:10:13Z"
@@ -561,7 +611,7 @@
       "title": "Customer Service Representative - Fresher",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846299918?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=98CC6FC8D9BBF55B1820D6D103B421CAFC926799",
+      "apply_url": "https://www.adzuna.in/land/ad/5846299918?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=98CC6FC8D9BBF55B1820D6D103B421CAFC926799",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:09:56Z"
@@ -571,7 +621,7 @@
       "title": "HNI Insurance Sales",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846299587?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=B51905E662E327436FDE088B2A143789549C8374",
+      "apply_url": "https://www.adzuna.in/land/ad/5846299587?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=B51905E662E327436FDE088B2A143789549C8374",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -583,7 +633,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846299513?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=271071DC8356BFB88C0231BCC019508442E535B2",
+      "apply_url": "https://www.adzuna.in/land/ad/5846299513?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=271071DC8356BFB88C0231BCC019508442E535B2",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:09:42Z"
@@ -593,7 +643,7 @@
       "title": "International Sales Executive",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846298683?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=D821F8B3058BC0B18CC34EFBC11EC433264219F4",
+      "apply_url": "https://www.adzuna.in/land/ad/5846298683?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=D821F8B3058BC0B18CC34EFBC11EC433264219F4",
       "source": "Adzuna",
       "tags": [
         "intern",
@@ -606,7 +656,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846298260?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=8A010C2C7133C35214275FA26F9EAEB73146A1A6",
+      "apply_url": "https://www.adzuna.in/land/ad/5846298260?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=8A010C2C7133C35214275FA26F9EAEB73146A1A6",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:49Z"
@@ -616,7 +666,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297847?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=8D5D70574E19C43F8E540027D8688BA5C900DA41",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297847?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=8D5D70574E19C43F8E540027D8688BA5C900DA41",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:34Z"
@@ -626,7 +676,7 @@
       "title": "Customer Service Executive",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297875?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=AB405AF0484D49F8ED89C4E7A857ABC6D579AA6A",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297875?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=AB405AF0484D49F8ED89C4E7A857ABC6D579AA6A",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:34Z"
@@ -636,7 +686,7 @@
       "title": "Customer Service Executive",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297866?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=FC35A6E8ABDE2FCCAD5714D3D9DE7012FDF74D81",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297866?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=FC35A6E8ABDE2FCCAD5714D3D9DE7012FDF74D81",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:34Z"
@@ -646,7 +696,7 @@
       "title": "Customer Support Executive",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297777?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=D97D7297B5704FD32AA7E3EB876F43E55F44B9DB",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297777?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=D97D7297B5704FD32AA7E3EB876F43E55F44B9DB",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:33Z"
@@ -656,7 +706,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297818?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=395965995695D565ED962071A479D590249A7129",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297818?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=395965995695D565ED962071A479D590249A7129",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:33Z"
@@ -666,7 +716,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297798?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=98A9501C78B7AD1360EAA1244AEAE2FEAAB605C9",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297798?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=98A9501C78B7AD1360EAA1244AEAE2FEAAB605C9",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:33Z"
@@ -676,7 +726,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297817?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=6A4006195ED13DFB323CEB41E764EF20A0EC9CF2",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297817?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=6A4006195ED13DFB323CEB41E764EF20A0EC9CF2",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:33Z"
@@ -686,7 +736,7 @@
       "title": "Customer Support Specialist",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5845682823?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=D842C740A5B86404A3C361968B25180EF1AF6B2D",
+      "apply_url": "https://www.adzuna.in/land/ad/5845682823?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=D842C740A5B86404A3C361968B25180EF1AF6B2D",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T05:07:48Z"
@@ -696,7 +746,7 @@
       "title": "Customer Specialist",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5841755175?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=F768CCB193CFD04ABE489BB7024D0384ADE5ED2E",
+      "apply_url": "https://www.adzuna.in/land/ad/5841755175?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=F768CCB193CFD04ABE489BB7024D0384ADE5ED2E",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-14T16:34:24Z"
@@ -719,7 +769,7 @@
       "title": "International Sales Specialist",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5840225081?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=05E50FDB580786D4D94EBB2FEFFB807D40F270F3",
+      "apply_url": "https://www.adzuna.in/land/ad/5840225081?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=05E50FDB580786D4D94EBB2FEFFB807D40F270F3",
       "source": "Adzuna",
       "tags": [
         "intern",
@@ -806,18 +856,6 @@
       "posted_at": "2026-08-07T07:27:22Z"
     },
     {
-      "id": "adzuna-5830416656",
-      "title": "HCLTech is hiring for International contact Center on 19th Aug,2026 (Inbound calls)",
-      "company": "HCLTech",
-      "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5830416656?se=9Brxd2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=682E5DADED4FB35AF807B09157551245FA6DD372",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-08-06T17:50:17Z"
-    },
-    {
       "id": "adzuna-5824113352",
       "title": "IN_Intern/Trainee",
       "company": "PricewaterhouseCoopers",
@@ -835,7 +873,7 @@
       "title": "Sales Executive",
       "company": "Policybazaar.com",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5823898087?se=Hk34c2-n8RGR76ZbJB6pOg&utm_medium=api&utm_source=3e209453&v=446A0BA93372062EC641215A3AC57C470905E92D",
+      "apply_url": "https://www.adzuna.in/land/ad/5823898087?se=CpTsDzio8RGDXZRVG-VeHA&utm_medium=api&utm_source=3e209453&v=446A0BA93372062EC641215A3AC57C470905E92D",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -898,7 +936,7 @@
       "title": "Field Sales Executive",
       "company": "Policybazaar.com",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5812352177?se=nJuqcm-n8RGuT8CQ_0SzRQ&utm_medium=api&utm_source=3e209453&v=958CF8053D71B910D6C730FC6E8264B853BDBF4A",
+      "apply_url": "https://www.adzuna.in/land/ad/5812352177?se=7q2kDjio8RG5EMkOnuyoTA&utm_medium=api&utm_source=3e209453&v=958CF8053D71B910D6C730FC6E8264B853BDBF4A",
       "source": "Adzuna",
       "tags": [
         "sales"
