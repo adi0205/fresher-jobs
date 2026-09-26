@@ -1,13 +1,232 @@
 {
-  "updated_at": "2026-09-25T09:02:19.113Z",
-  "count": 87,
+  "updated_at": "2026-09-26T08:47:13.063Z",
+  "count": 88,
   "sources": {
     "manual": 5,
     "greenhouse": 16,
     "lever": 0,
-    "adzuna": 101
+    "adzuna": 99
   },
   "jobs": [
+    {
+      "id": "adzuna-5899326619",
+      "title": "Associate Analyst Risk & Compliance",
+      "company": "Eaton",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5899326619?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-09-26T11:13:52Z"
+    },
+    {
+      "id": "greenhouse-stripe-8189018",
+      "title": "Third Party Risk Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8189018",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-09-25T16:45:03-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8177636",
+      "title": "Processing cost Analyst",
+      "company": "Stripe",
+      "location": "IN-Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8177636",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-09-25T16:45:02-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8168793",
+      "title": "Voice Support Operations Associate ",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8168793",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:59-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8131339",
+      "title": "Operations Associate, Apprenticeship",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8131339",
+      "source": "Greenhouse",
+      "tags": [
+        "apprenticeship",
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:55-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8098394",
+      "title": "Operations Associate, Sanctions",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8098394",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:53-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8104748",
+      "title": " Credit Risk Operations Associate",
+      "company": "Stripe",
+      "location": "Bangalore ",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8104748",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:52-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8102597",
+      "title": "Operations Associate, Financial Crimes EDD/PEP",
+      "company": "Stripe",
+      "location": "Bangalore ",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8102597",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:52-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8076652",
+      "title": "Fraud Operations Associate (Mandarin Speaking)",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8076652",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:50-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8066310",
+      "title": "Fraud Operations Associate SDC",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066310",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:50-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8066264",
+      "title": "Financial Analyst, Business F&S",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066264",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-09-25T16:44:49-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8031833",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "source": "Greenhouse",
+      "tags": [
+        "intern",
+        "engineering"
+      ],
+      "posted_at": "2026-09-25T16:44:48-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8021192",
+      "title": "Monetization Operations Analyst",
+      "company": "Stripe",
+      "location": "IN - Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8021192",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-09-25T16:44:47-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7975698",
+      "title": "Product Support Operations Associate, Weekend Shift",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7975698",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:45-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7962437",
+      "title": "Social Media, Customer Support Associate",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-09-25T16:44:44-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7543868",
+      "title": "Software Engineer, Internal Systems",
+      "company": "Stripe",
+      "location": "Bengaluru, India",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "source": "Greenhouse",
+      "tags": [
+        "intern",
+        "engineering"
+      ],
+      "posted_at": "2026-09-25T16:44:37-04:00"
+    },
+    {
+      "id": "adzuna-5898181008",
+      "title": "Associate Analyst - Logistics",
+      "company": "Eaton",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/details/5898181008?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-09-25T16:16:55Z"
+    },
+    {
+      "id": "adzuna-5897295181",
+      "title": "Customer Service Representative",
+      "company": "WNS",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5897295181?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=75B98E09A28D9F26EB8D57F4AF41F75D3F155646",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-09-25T01:54:51Z"
+    },
     {
       "id": "adzuna-5896368619",
       "title": "Associate Analyst , Supplier Compliance",
@@ -26,7 +245,7 @@
       "title": "SAP FICO - Operation Analyst - Associate",
       "company": "Deutsche Bank",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5896317139?se=nN8Qy7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=90851AE6DFAE217A5F39C7613F7CA5D96189D4C6",
+      "apply_url": "https://www.adzuna.in/land/ad/5896317139?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=90851AE6DFAE217A5F39C7613F7CA5D96189D4C6",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -39,7 +258,7 @@
       "title": "Associate Operations Analyst",
       "company": "Moody's",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5894979998?se=nN8Qy7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=6B8B1A10EB0B81F2B8C32379E0ED487235474D44",
+      "apply_url": "https://www.adzuna.in/land/ad/5894979998?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=6B8B1A10EB0B81F2B8C32379E0ED487235474D44",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -61,18 +280,6 @@
       "posted_at": "2026-09-23T07:13:03Z"
     },
     {
-      "id": "adzuna-5894389839",
-      "title": "Accounting & Reporting Analyst",
-      "company": "ABB",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5894389839?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=61772DAB9C3E314453DFDF51387977BA4B8FCF30",
-      "source": "Adzuna",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-09-23T04:30:39Z"
-    },
-    {
       "id": "adzuna-5894081778",
       "title": "Technology Consulting – Intern – 2027",
       "company": "PricewaterhouseCoopers",
@@ -84,42 +291,6 @@
         "consulting"
       ],
       "posted_at": "2026-09-22T21:30:23Z"
-    },
-    {
-      "id": "adzuna-5894078928",
-      "title": "Business AI Engineer - Intern - 2027",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5894078928?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-09-22T21:27:06Z"
-    },
-    {
-      "id": "greenhouse-stripe-8066310",
-      "title": "Fraud Operations Associate SDC",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066310",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-22T05:51:51-04:00"
-    },
-    {
-      "id": "adzuna-5893038454",
-      "title": "Mega Walk-In drive for International Voice Process - 25 & 26 September",
-      "company": "HCLTech",
-      "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5893038454?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=B4574747014082C0C3F3519E26C72FBF219A6C39",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-09-21T23:34:03Z"
     },
     {
       "id": "greenhouse-okta-8155883",
@@ -148,11 +319,21 @@
       "posted_at": "2026-09-21T11:13:47Z"
     },
     {
+      "id": "adzuna-5891978465",
+      "title": "Walkin Drive At HCL Tech, Navallur - UK Life Insurance & Pensions",
+      "company": "HCLTech",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/land/ad/5891978465?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=8C07343860E454C7649FA5838F80C9E37AE20444",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-09-20T23:27:42Z"
+    },
+    {
       "id": "adzuna-5891978192",
       "title": "HCLTech is hiring for International contact Center on 25th and 26th Sept 2026 Friday and Saturday (Inbound calls)",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5891978192?se=nN8Qy7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=CE6C662F2E74BD4FAB91361041B0A0DF6134C4FE",
+      "apply_url": "https://www.adzuna.in/land/ad/5891978192?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=CE6C662F2E74BD4FAB91361041B0A0DF6134C4FE",
       "source": "Adzuna",
       "tags": [
         "intern"
@@ -164,7 +345,7 @@
       "title": "Business Valuation - Associate Vice President",
       "company": "KPMG India",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5891694527?se=xvWCzb-48RGCPJhmN82Vmg&utm_medium=api&utm_source=3e209453&v=D21B5180B8DB4F533FC0A1BE946F821720D4FE2D",
+      "apply_url": "https://www.adzuna.in/land/ad/5891694527?se=uPLQ3Ia58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=D21B5180B8DB4F533FC0A1BE946F821720D4FE2D",
       "source": "Adzuna",
       "tags": [
         "associate"
@@ -189,7 +370,7 @@
       "title": "International Sales Executive | International Voice Process | Fresher & Experienced | Gurugram",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5891356319?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=6EB85A03E1504EA105815E5DF7AEF5EB8E7563E7",
+      "apply_url": "https://www.adzuna.in/land/ad/5891356319?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=6EB85A03E1504EA105815E5DF7AEF5EB8E7563E7",
       "source": "Adzuna",
       "tags": [
         "intern",
@@ -211,21 +392,11 @@
       "posted_at": "2026-09-19T21:41:24Z"
     },
     {
-      "id": "adzuna-5890612941",
-      "title": "Customer Service Representative",
-      "company": "WNS",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5890612941?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=39733AF0BA3523CC379500C0C9FBED6D8DAC6948",
-      "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-09-19T17:34:53Z"
-    },
-    {
       "id": "adzuna-5890611790",
       "title": "Associate - Instock Analyst",
       "company": "Myntra",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5890611790?se=nN8Qy7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=BFD2326420943A4E47A42C4E07BE09ECCED59FCA",
+      "apply_url": "https://www.adzuna.in/land/ad/5890611790?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=BFD2326420943A4E47A42C4E07BE09ECCED59FCA",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -260,59 +431,60 @@
       "posted_at": "2026-09-19T11:12:32Z"
     },
     {
-      "id": "adzuna-5890240673",
-      "title": "Associate Product Analyst",
-      "company": "Eaton",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5890240673?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5889679628",
+      "title": "HCLTech is hiring for International contact Center on 18th Sept 2026 (Inbound calls)",
+      "company": "HCLTech",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/land/ad/5889679628?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=5A292956EE94C39FB147ACC3D6AFB149590B4DAC",
       "source": "Adzuna",
       "tags": [
-        "associate",
-        "analyst"
+        "intern"
       ],
-      "posted_at": "2026-09-19T11:11:53Z"
+      "posted_at": "2026-09-18T23:24:04Z"
     },
     {
-      "id": "adzuna-5889219719",
-      "title": "Customer Service Representative",
-      "company": "WNS",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5889219719?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=29E84F196F58BD01ADB05CFFD4D037F7FBB1B016",
+      "id": "adzuna-5889679623",
+      "title": "Mega Walk-in Drive || 19th September 2026 || International Voice Process || Noida",
+      "company": "HCLTech",
+      "location": "Noida, Ghaziabad",
+      "apply_url": "https://www.adzuna.in/land/ad/5889679623?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=6C3F6401970AD1DC9A7C70097E095663632E375B",
       "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-09-18T17:29:32Z"
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-09-18T23:24:04Z"
     },
     {
       "id": "adzuna-5889217987",
       "title": "Customer Service Representative",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5889217987?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=737DB335AD7FD96DF0B830E1BCBA5F039ED9D127",
+      "apply_url": "https://www.adzuna.in/land/ad/5889217987?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=737DB335AD7FD96DF0B830E1BCBA5F039ED9D127",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-09-18T17:29:09Z"
     },
     {
-      "id": "adzuna-5889214535",
-      "title": "Customer Service Representative",
-      "company": "WNS",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5889214535?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=2B3E2FA18ACB3D7A82FD8D360AEF7240B95A0E2C",
+      "id": "adzuna-5886605720",
+      "title": "Talent Mobility",
+      "company": "upGrad",
+      "location": "Noida, Ghaziabad",
+      "apply_url": "https://www.adzuna.in/land/ad/5886605720?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=F6262DE583EE9E387387D34CA7F84CFE88CAEA16",
       "source": "Adzuna",
       "tags": [],
-      "posted_at": "2026-09-18T17:28:19Z"
+      "posted_at": "2026-09-17T01:15:36Z"
     },
     {
-      "id": "greenhouse-stripe-8189018",
-      "title": "Third Party Risk Analyst",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8189018",
-      "source": "Greenhouse",
+      "id": "adzuna-5884158017",
+      "title": "HCLTech is hiring for International contact Center on 9th to 11th Sept 2026 (Inbound calls)",
+      "company": "HCLTech",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/land/ad/5884158017?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=F48B67DAA4273A40F7FF4F585FB50E7FC8BFD2D6",
+      "source": "Adzuna",
       "tags": [
-        "analyst"
+        "intern"
       ],
-      "posted_at": "2026-09-14T15:57:27-04:00"
+      "posted_at": "2026-09-15T07:07:05Z"
     },
     {
       "id": "adzuna-5882778512",
@@ -326,19 +498,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-13T21:44:36Z"
-    },
-    {
-      "id": "adzuna-5882777482",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5882777482?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-09-13T21:43:36Z"
     },
     {
       "id": "adzuna-5882764473",
@@ -397,7 +556,7 @@
       "title": "Origination Enabler, AS",
       "company": "Deutsche Bank",
       "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5882426743?se=nN8Qy7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=AD196B6307F011281D79E29F7ABAFBE352A9830E",
+      "apply_url": "https://www.adzuna.in/land/ad/5882426743?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=AD196B6307F011281D79E29F7ABAFBE352A9830E",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-09-13T14:31:59Z"
@@ -429,21 +588,24 @@
       "posted_at": "2026-09-12T21:16:03Z"
     },
     {
-      "id": "adzuna-5880953477",
-      "title": "Virtual Drive for Freshers - Customer Service - 12 Sept 2026 - 13 Sept 2026",
-      "company": "HCLTech",
-      "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/land/ad/5880953477?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=E35B26C1508075E53601E10EDB6EE780F220A62E",
+      "id": "adzuna-5880953060",
+      "title": "Sales Intern",
+      "company": "upGrad",
+      "location": "Mumbai, Maharashtra",
+      "apply_url": "https://www.adzuna.in/land/ad/5880953060?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=13612DC28843FCFE02F15F4928CADCE65CD76DAF",
       "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-09-12T17:21:22Z"
+      "tags": [
+        "intern",
+        "sales"
+      ],
+      "posted_at": "2026-09-12T17:20:59Z"
     },
     {
       "id": "adzuna-5880950184",
       "title": "Process Associate/Analyst",
       "company": "HCLTech",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5880950184?se=nN8Qy7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=BF3614E9C7F012C1328D7431ECFAA41FAC095655",
+      "apply_url": "https://www.adzuna.in/land/ad/5880950184?se=3Dda24a58RGCw6kuTDrJlg&utm_medium=api&utm_source=3e209453&v=BF3614E9C7F012C1328D7431ECFAA41FAC095655",
       "source": "Adzuna",
       "tags": [
         "associate",
@@ -456,7 +618,7 @@
       "title": "Customer Service Representative",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5880949862?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=9AD129CBC4D8E6500B22F7FCBFCD7360CCBF6A53",
+      "apply_url": "https://www.adzuna.in/land/ad/5880949862?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=9AD129CBC4D8E6500B22F7FCBFCD7360CCBF6A53",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-09-12T17:19:07Z"
@@ -466,7 +628,7 @@
       "title": "Graduate Apprentice Trainee (GAT) – Operations & Logistics (1 Year)",
       "company": "Daimler India Commercial Vehicles",
       "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/land/ad/5880062224?se=XvJmw7-48RGhgqvDw1UH9A&utm_medium=api&utm_source=3e209453&v=9238A275B3B20FFF1E5C596EE8B5BFB7A38DC04F",
+      "apply_url": "https://www.adzuna.in/land/ad/5880062224?se=SLee2Ia58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=9238A275B3B20FFF1E5C596EE8B5BFB7A38DC04F",
       "source": "Adzuna",
       "tags": [
         "apprenticeship",
@@ -474,165 +636,6 @@
         "trainee"
       ],
       "posted_at": "2026-09-12T01:03:46Z"
-    },
-    {
-      "id": "greenhouse-stripe-8104748",
-      "title": " Credit Risk Operations Associate",
-      "company": "Stripe",
-      "location": "Bangalore ",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8104748",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8066264",
-      "title": "Financial Analyst, Business F&S",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066264",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8076652",
-      "title": "Fraud Operations Associate (Mandarin Speaking)",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8076652",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8021192",
-      "title": "Monetization Operations Analyst",
-      "company": "Stripe",
-      "location": "IN - Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8021192",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8131339",
-      "title": "Operations Associate, Apprenticeship",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8131339",
-      "source": "Greenhouse",
-      "tags": [
-        "apprenticeship",
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8102597",
-      "title": "Operations Associate, Financial Crimes EDD/PEP",
-      "company": "Stripe",
-      "location": "Bangalore ",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8102597",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8098394",
-      "title": "Operations Associate, Sanctions",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8098394",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8177636",
-      "title": "Processing cost Analyst",
-      "company": "Stripe",
-      "location": "IN-Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8177636",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7975698",
-      "title": "Product Support Operations Associate, Weekend Shift",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7975698",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7962437",
-      "title": "Social Media, Customer Support Associate",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8031833",
-      "title": "Software Engineer, Intern",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "source": "Greenhouse",
-      "tags": [
-        "intern",
-        "engineering"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7543868",
-      "title": "Software Engineer, Internal Systems",
-      "company": "Stripe",
-      "location": "Bengaluru, India",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7543868",
-      "source": "Greenhouse",
-      "tags": [
-        "intern",
-        "engineering"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8168793",
-      "title": "Voice Support Operations Associate ",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8168793",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-10T13:11:58-04:00"
     },
     {
       "id": "adzuna-5877252846",
@@ -717,27 +720,16 @@
       "posted_at": "2026-09-09T07:37:01Z"
     },
     {
-      "id": "adzuna-5874134467",
-      "title": "Customer Service Representative",
-      "company": "WNS",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5874134467?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=6165B3DFB8B1300AAD5AE4C173999AAF37804824",
-      "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-09-07T18:37:24Z"
-    },
-    {
-      "id": "adzuna-5871532467",
-      "title": "Associate Analyst - Financial Planning & Analysis",
-      "company": "United Airlines",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5871532467?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5871992959",
+      "title": "Mega Walk-in Drive For Fresher - International Voice Process 05- Sept & 06 Sept",
+      "company": "HCLTech",
+      "location": "Noida, Ghaziabad",
+      "apply_url": "https://www.adzuna.in/land/ad/5871992959?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=E0A7AFADCA21F045FB048291B15B77DE3FAC3921",
       "source": "Adzuna",
       "tags": [
-        "associate",
-        "analyst"
+        "intern"
       ],
-      "posted_at": "2026-09-05T11:08:31Z"
+      "posted_at": "2026-09-05T18:32:46Z"
     },
     {
       "id": "adzuna-5871253909",
@@ -757,12 +749,24 @@
       "title": "Education Loan Intern",
       "company": "upGrad Study Abroad",
       "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/land/ad/5870528565?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=56A028725780BAE0B37AAE04D5E60A6AC83FB602",
+      "apply_url": "https://www.adzuna.in/land/ad/5870528565?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=56A028725780BAE0B37AAE04D5E60A6AC83FB602",
       "source": "Adzuna",
       "tags": [
         "intern"
       ],
       "posted_at": "2026-09-04T16:58:18Z"
+    },
+    {
+      "id": "adzuna-5870527506",
+      "title": "Field Sales Representative",
+      "company": "Policybazaar.com",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/land/ad/5870527506?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=64DBB57A866774D48D35C1FF9512CE478F2E75CC",
+      "source": "Adzuna",
+      "tags": [
+        "sales"
+      ],
+      "posted_at": "2026-09-04T16:57:29Z"
     },
     {
       "id": "adzuna-5868423206",
@@ -778,6 +782,16 @@
       "posted_at": "2026-09-03T11:07:42Z"
     },
     {
+      "id": "adzuna-5867264976",
+      "title": "Walk-in-Drive | HCLTech | IT Audits and Access Management | Gurugram | 29th Aug | 11 AM-2 PM | Freshers only",
+      "company": "HCLTech",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5867264976?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=12B7F395AB25A118C524F47F7933C5CFD0D5C052",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-09-02T21:45:48Z"
+    },
+    {
       "id": "adzuna-5867223651",
       "title": "Associate/Analyst - Planning",
       "company": "Mitsubishi UFJ Financial Group",
@@ -791,17 +805,14 @@
       "posted_at": "2026-09-02T21:29:12Z"
     },
     {
-      "id": "adzuna-5860969966",
-      "title": "Associate Project Analyst",
-      "company": "Qualcomm",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5860969966?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5867035830",
+      "title": "Customer Service Representative",
+      "company": "UnitedHealth Group",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/land/ad/5867035830?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=E9C1A42A494BC2B12E538A8479DED013F04F1CC7",
       "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-29T16:06:35Z"
+      "tags": [],
+      "posted_at": "2026-09-02T16:41:39Z"
     },
     {
       "id": "adzuna-5860969699",
@@ -817,19 +828,6 @@
       "posted_at": "2026-08-29T16:06:33Z"
     },
     {
-      "id": "adzuna-5859765418",
-      "title": "Management Consulting – Intern – 2027",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5859765418?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern",
-        "consulting"
-      ],
-      "posted_at": "2026-08-28T20:56:00Z"
-    },
-    {
       "id": "adzuna-5859075097",
       "title": "Associate Analyst, Environment, Health and Safety",
       "company": "Colgate-Palmolive Company",
@@ -841,19 +839,6 @@
         "analyst"
       ],
       "posted_at": "2026-08-28T07:12:46Z"
-    },
-    {
-      "id": "adzuna-5856968718",
-      "title": "IND-Associate Analyst",
-      "company": "Lowe's Home Centers",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5856968718?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-26T20:55:32Z"
     },
     {
       "id": "adzuna-5850377893",
@@ -886,30 +871,17 @@
       "title": "Customer Care Executive",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5849579017?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=87A3D5DB9BCA120F822ABBED516EE856811EC64B",
+      "apply_url": "https://www.adzuna.in/land/ad/5849579017?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=87A3D5DB9BCA120F822ABBED516EE856811EC64B",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-20T17:58:26Z"
-    },
-    {
-      "id": "adzuna-5846723018",
-      "title": "Associate Analyst, Delivery Strategy Operations",
-      "company": "Invesco",
-      "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/land/ad/5846723018?se=nN8Qy7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=A504255D2123B9200C02B267ABE76528329596AD",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-18T18:03:32Z"
     },
     {
       "id": "adzuna-5846300438",
       "title": "Customer Sales Specialist",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846300438?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=3F39F5FB695E028B1FAA75328C57288C961A354D",
+      "apply_url": "https://www.adzuna.in/land/ad/5846300438?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=3F39F5FB695E028B1FAA75328C57288C961A354D",
       "source": "Adzuna",
       "tags": [
         "sales"
@@ -921,7 +893,7 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846300423?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=4C1FEDCCDD53C933F071E1118FF58F7473A74B24",
+      "apply_url": "https://www.adzuna.in/land/ad/5846300423?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=4C1FEDCCDD53C933F071E1118FF58F7473A74B24",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:10:14Z"
@@ -931,37 +903,77 @@
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846299513?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=271071DC8356BFB88C0231BCC019508442E535B2",
+      "apply_url": "https://www.adzuna.in/land/ad/5846299513?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=271071DC8356BFB88C0231BCC019508442E535B2",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:09:42Z"
     },
     {
-      "id": "adzuna-5846297847",
+      "id": "adzuna-5846298260",
       "title": "Customer Service Representative",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297847?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=8D5D70574E19C43F8E540027D8688BA5C900DA41",
+      "apply_url": "https://www.adzuna.in/land/ad/5846298260?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=8A010C2C7133C35214275FA26F9EAEB73146A1A6",
       "source": "Adzuna",
       "tags": [],
-      "posted_at": "2026-08-18T13:08:34Z"
+      "posted_at": "2026-08-18T13:08:49Z"
     },
     {
       "id": "adzuna-5846297875",
       "title": "Customer Service Executive",
       "company": "Policybazaar.com",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5846297875?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=AB405AF0484D49F8ED89C4E7A857ABC6D579AA6A",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297875?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=AB405AF0484D49F8ED89C4E7A857ABC6D579AA6A",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T13:08:34Z"
+    },
+    {
+      "id": "adzuna-5846297866",
+      "title": "Customer Service Executive",
+      "company": "Policybazaar.com",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297866?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=FC35A6E8ABDE2FCCAD5714D3D9DE7012FDF74D81",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-08-18T13:08:34Z"
+    },
+    {
+      "id": "adzuna-5846297818",
+      "title": "Customer Service Representative",
+      "company": "Policybazaar.com",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297818?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=395965995695D565ED962071A479D590249A7129",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-08-18T13:08:33Z"
+    },
+    {
+      "id": "adzuna-5846297817",
+      "title": "Customer Service Representative",
+      "company": "Policybazaar.com",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297817?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=6A4006195ED13DFB323CEB41E764EF20A0EC9CF2",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-08-18T13:08:33Z"
+    },
+    {
+      "id": "adzuna-5846297798",
+      "title": "Customer Service Representative",
+      "company": "Policybazaar.com",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/land/ad/5846297798?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=98A9501C78B7AD1360EAA1244AEAE2FEAAB605C9",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-08-18T13:08:33Z"
     },
     {
       "id": "adzuna-5845682823",
       "title": "Customer Support Specialist",
       "company": "WNS",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/land/ad/5845682823?se=-A57vL-48RG0YIE6S5IGQw&utm_medium=api&utm_source=3e209453&v=D842C740A5B86404A3C361968B25180EF1AF6B2D",
+      "apply_url": "https://www.adzuna.in/land/ad/5845682823?se=fGeV1Ya58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=D842C740A5B86404A3C361968B25180EF1AF6B2D",
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-08-18T05:07:48Z"
@@ -1032,16 +1044,16 @@
       "posted_at": "2026-08-02T20:49:11Z"
     },
     {
-      "id": "adzuna-5823127893",
-      "title": "Process Associate Level 1",
-      "company": "HCL Technologies",
-      "location": "Nagpur, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5823127893?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5823898087",
+      "title": "Sales Executive",
+      "company": "Policybazaar.com",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/land/ad/5823898087?se=eCIU14a58RG3jpCv9xpWmA&utm_medium=api&utm_source=3e209453&v=446A0BA93372062EC641215A3AC57C470905E92D",
       "source": "Adzuna",
       "tags": [
-        "associate"
+        "sales"
       ],
-      "posted_at": "2026-08-01T06:46:36Z"
+      "posted_at": "2026-08-01T17:33:23Z"
     },
     {
       "id": "adzuna-5823127538",
@@ -1054,18 +1066,6 @@
         "graduate"
       ],
       "posted_at": "2026-08-01T06:46:33Z"
-    },
-    {
-      "id": "adzuna-5823127190",
-      "title": "Process Associate",
-      "company": "HCL Technologies",
-      "location": "Nagpur, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5823127190?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-08-01T06:46:30Z"
     },
     {
       "id": "adzuna-5819192901",
