@@ -1,13 +1,39 @@
 {
-  "updated_at": "2026-10-03T09:22:31.001Z",
-  "count": 53,
+  "updated_at": "2026-10-04T10:01:15.114Z",
+  "count": 45,
   "sources": {
     "manual": 5,
     "greenhouse": 14,
     "lever": 0,
-    "adzuna": 71
+    "adzuna": 63
   },
   "jobs": [
+    {
+      "id": "adzuna-5911187354",
+      "title": "Associate Analyst Indirect Tax",
+      "company": "Eaton",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5911187354?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-04T11:51:54Z"
+    },
+    {
+      "id": "adzuna-5910241214",
+      "title": "Automation Engineer Associate Analyst",
+      "company": "Cigna Group",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/details/5910241214?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-03T21:41:11Z"
+    },
     {
       "id": "adzuna-5908407973",
       "title": "Medical Claims Review Associate Analyst",
@@ -20,19 +46,6 @@
         "analyst"
       ],
       "posted_at": "2026-10-02T21:49:55Z"
-    },
-    {
-      "id": "adzuna-5908392189",
-      "title": "NNA Analytics & Insights, Associate/Analyst, WM Admin, Wealth Management",
-      "company": "Morgan Stanley",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5908392189?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-02T21:41:46Z"
     },
     {
       "id": "adzuna-5908317134",
@@ -60,19 +73,6 @@
         "analyst"
       ],
       "posted_at": "2026-10-02T11:18:23Z"
-    },
-    {
-      "id": "adzuna-5905914498",
-      "title": "Release Management Jr. Associate Analyst",
-      "company": "3M",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5905914498?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-01T21:27:04Z"
     },
     {
       "id": "adzuna-5905904656",
@@ -139,32 +139,6 @@
         "sales"
       ],
       "posted_at": "2026-09-29T21:28:59Z"
-    },
-    {
-      "id": "adzuna-5901698456",
-      "title": "Associate IS Analyst – Vault Quality",
-      "company": "Amgen",
-      "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/details/5901698456?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-28T21:10:09Z"
-    },
-    {
-      "id": "adzuna-5900750101",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5900750101?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-09-27T21:28:52Z"
     },
     {
       "id": "greenhouse-stripe-8189018",
@@ -352,19 +326,6 @@
       "posted_at": "2026-09-24T11:14:50Z"
     },
     {
-      "id": "adzuna-5896317139",
-      "title": "SAP FICO - Operation Analyst - Associate",
-      "company": "Deutsche Bank",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5896317139?se=jNzg8gu_8RGdRLcUnFY4TA&utm_medium=api&utm_source=3e209453&v=90851AE6DFAE217A5F39C7613F7CA5D96189D4C6",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-24T10:31:51Z"
-    },
-    {
       "id": "adzuna-5894617272",
       "title": "Associate Analyst , Supplier Compliance",
       "company": "Colgate-Palmolive Company",
@@ -416,30 +377,16 @@
       "posted_at": "2026-09-21T12:43:00-04:00"
     },
     {
-      "id": "adzuna-5890241533",
-      "title": "Associate Collections Analyst",
-      "company": "NTT America, .",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5890241533?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5887956814",
+      "title": "HR Operations - Intern- Noida",
+      "company": "Paytm Payments Services",
+      "location": "Noida, Ghaziabad",
+      "apply_url": "https://www.adzuna.in/details/5887956814?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "associate",
-        "analyst"
+        "intern"
       ],
-      "posted_at": "2026-09-19T11:12:32Z"
-    },
-    {
-      "id": "adzuna-5890240673",
-      "title": "Associate Product Analyst",
-      "company": "Eaton",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5890240673?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-19T11:11:53Z"
+      "posted_at": "2026-09-17T21:51:39Z"
     },
     {
       "id": "adzuna-5882764473",
@@ -479,16 +426,6 @@
         "intern"
       ],
       "posted_at": "2026-09-13T21:20:15Z"
-    },
-    {
-      "id": "adzuna-5882426743",
-      "title": "Origination Enabler, AS",
-      "company": "Deutsche Bank",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5882426743?se=jNzg8gu_8RGdRLcUnFY4TA&utm_medium=api&utm_source=3e209453&v=AD196B6307F011281D79E29F7ABAFBE352A9830E",
-      "source": "Adzuna",
-      "tags": [],
-      "posted_at": "2026-09-13T14:31:59Z"
     },
     {
       "id": "adzuna-5877252846",
@@ -586,17 +523,17 @@
       "posted_at": "2026-09-02T21:29:12Z"
     },
     {
-      "id": "adzuna-5860300712",
-      "title": "Threat Intelligence Analyst – Associate",
-      "company": "Deutsche Bank",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5860300712?se=jNzg8gu_8RGdRLcUnFY4TA&utm_medium=api&utm_source=3e209453&v=7C67B3958F8EDA8547158F9E2C04F7293FBCB9F1",
+      "id": "adzuna-5859765418",
+      "title": "Management Consulting – Intern – 2027",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5859765418?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "associate",
-        "analyst"
+        "intern",
+        "consulting"
       ],
-      "posted_at": "2026-08-29T04:13:08Z"
+      "posted_at": "2026-08-28T20:56:00Z"
     },
     {
       "id": "adzuna-5859075097",
@@ -649,45 +586,6 @@
         "analyst"
       ],
       "posted_at": "2026-08-13T11:02:36Z"
-    },
-    {
-      "id": "adzuna-5834741578",
-      "title": "Associate Compliance Analyst II",
-      "company": "Cadence Systems",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5834741578?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-09T20:38:04Z"
-    },
-    {
-      "id": "adzuna-5832795889",
-      "title": "Associate Financial Analyst",
-      "company": "SWISS RE",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5832795889?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-08T07:28:11Z"
-    },
-    {
-      "id": "adzuna-5831397292",
-      "title": "Associate Business Analyst",
-      "company": "ICE",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5831397292?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-07T07:27:22Z"
     }
   ]
 }
