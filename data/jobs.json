@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T10:46:22.397Z",
-  "count": 59,
+  "updated_at": "2026-10-06T10:39:54.069Z",
+  "count": 57,
   "sources": {
     "manual": 5,
     "greenhouse": 14,
@@ -243,6 +243,19 @@
         "sales"
       ],
       "posted_at": "2026-09-29T21:28:59Z"
+    },
+    {
+      "id": "adzuna-5901698456",
+      "title": "Associate IS Analyst – Vault Quality",
+      "company": "Amgen",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/details/5901698456?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-09-28T21:10:09Z"
     },
     {
       "id": "greenhouse-stripe-8189018",
@@ -640,18 +653,6 @@
       "posted_at": "2026-09-09T07:37:01Z"
     },
     {
-      "id": "adzuna-5875699078",
-      "title": "HR Operations- Onboarding - Intern- Noida",
-      "company": "Paytm Payments Services",
-      "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/details/5875699078?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-09-08T21:12:41Z"
-    },
-    {
       "id": "adzuna-5867223651",
       "title": "Associate/Analyst - Planning",
       "company": "Mitsubishi UFJ Financial Group",
@@ -741,32 +742,6 @@
         "analyst"
       ],
       "posted_at": "2026-08-09T20:38:04Z"
-    },
-    {
-      "id": "adzuna-5832795889",
-      "title": "Associate Financial Analyst",
-      "company": "SWISS RE",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5832795889?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-08T07:28:11Z"
-    },
-    {
-      "id": "adzuna-5831397292",
-      "title": "Associate Business Analyst",
-      "company": "ICE",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5831397292?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-07T07:27:22Z"
     }
   ]
 }
