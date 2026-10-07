@@ -1,13 +1,64 @@
 {
-  "updated_at": "2026-10-06T10:39:54.069Z",
-  "count": 57,
+  "updated_at": "2026-10-07T10:30:35.172Z",
+  "count": 59,
   "sources": {
     "manual": 5,
-    "greenhouse": 14,
+    "greenhouse": 13,
     "lever": 0,
-    "adzuna": 75
+    "adzuna": 78
   },
   "jobs": [
+    {
+      "id": "adzuna-5914921521",
+      "title": "Associate Analyst, Accounts Payable",
+      "company": "Colgate-Palmolive Company",
+      "location": "Mumbai, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5914921521?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-07T07:30:13Z"
+    },
+    {
+      "id": "adzuna-5914224877",
+      "title": "Associate Analyst - Business Operation Support - Hyderabad",
+      "company": "Deloitte",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/details/5914224877?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-07T00:12:25Z"
+    },
+    {
+      "id": "adzuna-5914014512",
+      "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
+      "company": "Baxter",
+      "location": "Gurgaon, Haryana",
+      "apply_url": "https://www.adzuna.in/details/5914014512?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "apprenticeship",
+        "trainee"
+      ],
+      "posted_at": "2026-10-06T21:50:23Z"
+    },
+    {
+      "id": "adzuna-5914006646",
+      "title": "Digi X Intern Hiring_TIET Thapar",
+      "company": "Natwest Group",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/details/5914006646?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-10-06T21:45:17Z"
+    },
     {
       "id": "adzuna-5911187354",
       "title": "Associate Analyst Indirect Tax",
@@ -268,18 +319,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-25T16:45:03-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8177636",
-      "title": "Processing cost Analyst",
-      "company": "Stripe",
-      "location": "IN-Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8177636",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-09-25T16:45:02-04:00"
     },
     {
       "id": "greenhouse-stripe-8168793",
@@ -664,19 +703,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-02T21:29:12Z"
-    },
-    {
-      "id": "adzuna-5859765418",
-      "title": "Management Consulting – Intern – 2027",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5859765418?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern",
-        "consulting"
-      ],
-      "posted_at": "2026-08-28T20:56:00Z"
     },
     {
       "id": "adzuna-5859075097",
