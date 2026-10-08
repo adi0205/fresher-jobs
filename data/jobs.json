@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T10:30:35.172Z",
+  "updated_at": "2026-10-08T10:51:41.276Z",
   "count": 59,
   "sources": {
     "manual": 5,
@@ -8,6 +8,166 @@
     "adzuna": 78
   },
   "jobs": [
+    {
+      "id": "greenhouse-stripe-8104748",
+      "title": " Credit Risk Operations Associate",
+      "company": "Stripe",
+      "location": "Bangalore ",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8104748",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8076652",
+      "title": "Fraud Operations Associate (Mandarin Speaking)",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8076652",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8066310",
+      "title": "Fraud Operations Associate SDC",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066310",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8021192",
+      "title": "Monetization Operations Analyst",
+      "company": "Stripe",
+      "location": "IN - Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8021192",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8131339",
+      "title": "Operations Associate, Apprenticeship",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8131339",
+      "source": "Greenhouse",
+      "tags": [
+        "apprenticeship",
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8098394",
+      "title": "Operations Associate, Sanctions",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8098394",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7975698",
+      "title": "Product Support Operations Associate, Weekend Shift",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7975698",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7962437",
+      "title": "Social Media, Customer Support Associate",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8031833",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "source": "Greenhouse",
+      "tags": [
+        "intern",
+        "engineering"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-7543868",
+      "title": "Software Engineer, Internal Systems",
+      "company": "Stripe",
+      "location": "Bengaluru, India",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "source": "Greenhouse",
+      "tags": [
+        "intern",
+        "engineering"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8189018",
+      "title": "Third Party Risk Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8189018",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "greenhouse-stripe-8168793",
+      "title": "Voice Support Operations Associate ",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8168793",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-10-07T19:02:27-04:00"
+    },
+    {
+      "id": "adzuna-5916812887",
+      "title": "Associate Analyst - Executive Assistant Support - Hyderabad",
+      "company": "Deloitte",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/details/5916812887?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-07T16:27:26Z"
+    },
     {
       "id": "adzuna-5914921521",
       "title": "Associate Analyst, Accounts Payable",
@@ -203,20 +363,6 @@
       "posted_at": "2026-10-02T21:41:46Z"
     },
     {
-      "id": "adzuna-5908317134",
-      "title": "Graduate Apprentice Trainee",
-      "company": "Kimberly-Clark",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5908317134?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "apprenticeship",
-        "graduate",
-        "trainee"
-      ],
-      "posted_at": "2026-10-02T21:22:49Z"
-    },
-    {
       "id": "adzuna-5907470606",
       "title": "Associate Analyst - Customer Insights & Analytics IKC",
       "company": "United Airlines",
@@ -294,166 +440,6 @@
         "sales"
       ],
       "posted_at": "2026-09-29T21:28:59Z"
-    },
-    {
-      "id": "adzuna-5901698456",
-      "title": "Associate IS Analyst – Vault Quality",
-      "company": "Amgen",
-      "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/details/5901698456?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-28T21:10:09Z"
-    },
-    {
-      "id": "greenhouse-stripe-8189018",
-      "title": "Third Party Risk Analyst",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8189018",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-09-25T16:45:03-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8168793",
-      "title": "Voice Support Operations Associate ",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8168793",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:59-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8131339",
-      "title": "Operations Associate, Apprenticeship",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8131339",
-      "source": "Greenhouse",
-      "tags": [
-        "apprenticeship",
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:55-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8098394",
-      "title": "Operations Associate, Sanctions",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8098394",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:53-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8104748",
-      "title": " Credit Risk Operations Associate",
-      "company": "Stripe",
-      "location": "Bangalore ",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8104748",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:52-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8076652",
-      "title": "Fraud Operations Associate (Mandarin Speaking)",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8076652",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:50-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8066310",
-      "title": "Fraud Operations Associate SDC",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8066310",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:50-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8031833",
-      "title": "Software Engineer, Intern",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "source": "Greenhouse",
-      "tags": [
-        "intern",
-        "engineering"
-      ],
-      "posted_at": "2026-09-25T16:44:48-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8021192",
-      "title": "Monetization Operations Analyst",
-      "company": "Stripe",
-      "location": "IN - Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8021192",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-09-25T16:44:47-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7975698",
-      "title": "Product Support Operations Associate, Weekend Shift",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7975698",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:45-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7962437",
-      "title": "Social Media, Customer Support Associate",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-09-25T16:44:44-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7543868",
-      "title": "Software Engineer, Internal Systems",
-      "company": "Stripe",
-      "location": "Bengaluru, India",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7543868",
-      "source": "Greenhouse",
-      "tags": [
-        "intern",
-        "engineering"
-      ],
-      "posted_at": "2026-09-25T16:44:37-04:00"
     },
     {
       "id": "adzuna-5898181008",
@@ -690,6 +676,18 @@
         "analyst"
       ],
       "posted_at": "2026-09-09T07:37:01Z"
+    },
+    {
+      "id": "adzuna-5875699078",
+      "title": "HR Operations- Onboarding - Intern- Noida",
+      "company": "Paytm Payments Services",
+      "location": "Noida, Ghaziabad",
+      "apply_url": "https://www.adzuna.in/details/5875699078?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-09-08T21:12:41Z"
     },
     {
       "id": "adzuna-5867223651",
