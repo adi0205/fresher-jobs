@@ -1,13 +1,63 @@
 {
-  "updated_at": "2026-10-09T10:50:14.701Z",
-  "count": 59,
+  "updated_at": "2026-10-10T10:04:43.019Z",
+  "count": 60,
   "sources": {
     "manual": 5,
-    "greenhouse": 14,
+    "greenhouse": 15,
     "lever": 0,
-    "adzuna": 77
+    "adzuna": 71
   },
   "jobs": [
+    {
+      "id": "adzuna-5920972765",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5920972765?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-10-09T21:48:25Z"
+    },
+    {
+      "id": "adzuna-5920920400",
+      "title": "Associate Analyst, RFP",
+      "company": "Invesco",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5920920400?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-09T21:34:26Z"
+    },
+    {
+      "id": "greenhouse-gitlab-8864819002",
+      "title": "Benefits Analyst",
+      "company": "Gitlab",
+      "location": "Bangalore, India",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8864819002",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-10-09T11:09:56-04:00"
+    },
+    {
+      "id": "adzuna-5920203795",
+      "title": "Associate Analyst - Financial Planning & Analysis",
+      "company": "United Airlines",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5920203795?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-09T11:21:11Z"
+    },
     {
       "id": "adzuna-5920194851",
       "title": "Associate Analyst Logistics",
@@ -32,19 +82,6 @@
         "analyst"
       ],
       "posted_at": "2026-10-09T05:52:10-04:00"
-    },
-    {
-      "id": "adzuna-5919577390",
-      "title": "Associate Analyst, RFP",
-      "company": "Invesco",
-      "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/details/5919577390?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-09T01:30:01Z"
     },
     {
       "id": "adzuna-5918772112",
@@ -402,19 +439,6 @@
       "posted_at": "2026-10-02T11:18:23Z"
     },
     {
-      "id": "adzuna-5905904656",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5905904656?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-10-01T21:21:13Z"
-    },
-    {
       "id": "adzuna-5905896530",
       "title": "In_Intern",
       "company": "PricewaterhouseCoopers",
@@ -441,6 +465,33 @@
       "posted_at": "2026-09-29T22:51:29Z"
     },
     {
+      "id": "adzuna-5902918682",
+      "title": "Sales Compensation Associate Analyst",
+      "company": "Salesforce",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/details/5902918682?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst",
+        "sales"
+      ],
+      "posted_at": "2026-09-29T21:28:59Z"
+    },
+    {
+      "id": "adzuna-5901698456",
+      "title": "Associate IS Analyst – Vault Quality",
+      "company": "Amgen",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/details/5901698456?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-09-28T21:10:09Z"
+    },
+    {
       "id": "adzuna-5898181008",
       "title": "Associate Analyst - Logistics",
       "company": "Eaton",
@@ -465,19 +516,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-24T11:14:50Z"
-    },
-    {
-      "id": "adzuna-5894979998",
-      "title": "Associate Operations Analyst",
-      "company": "Moody's",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5894979998?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-23T14:40:15Z"
     },
     {
       "id": "adzuna-5894617272",
@@ -555,18 +593,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-19T11:11:53Z"
-    },
-    {
-      "id": "adzuna-5887956814",
-      "title": "HR Operations - Intern- Noida",
-      "company": "Paytm Payments Services",
-      "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/details/5887956814?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-09-17T21:51:39Z"
     },
     {
       "id": "adzuna-5882764473",
@@ -688,18 +714,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-09T07:37:01Z"
-    },
-    {
-      "id": "adzuna-5875699078",
-      "title": "HR Operations- Onboarding - Intern- Noida",
-      "company": "Paytm Payments Services",
-      "location": "Noida, Ghaziabad",
-      "apply_url": "https://www.adzuna.in/details/5875699078?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-09-08T21:12:41Z"
     },
     {
       "id": "adzuna-5867223651",
