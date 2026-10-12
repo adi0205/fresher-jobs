@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-10-11T10:15:08.044Z",
-  "count": 61,
+  "updated_at": "2026-10-12T11:14:28.769Z",
+  "count": 60,
   "sources": {
     "manual": 5,
     "greenhouse": 15,
     "lever": 0,
-    "adzuna": 78
+    "adzuna": 76
   },
   "jobs": [
+    {
+      "id": "adzuna-5923455652",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5923455652?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-10-11T21:38:43Z"
+    },
+    {
+      "id": "adzuna-5923232274",
+      "title": "Business Development Executive",
+      "company": "Square Yards",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5923232274?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "sales"
+      ],
+      "posted_at": "2026-10-11T16:47:58Z"
+    },
     {
       "id": "adzuna-5922385646",
       "title": "IN_Intern/Trainee",
@@ -480,19 +505,6 @@
       "posted_at": "2026-09-29T21:28:59Z"
     },
     {
-      "id": "adzuna-5898181008",
-      "title": "Associate Analyst - Logistics",
-      "company": "Eaton",
-      "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/details/5898181008?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-25T16:16:55Z"
-    },
-    {
       "id": "adzuna-5896368619",
       "title": "Associate Analyst , Supplier Compliance",
       "company": "Colgate-Palmolive",
@@ -530,18 +542,6 @@
         "consulting"
       ],
       "posted_at": "2026-09-22T21:30:23Z"
-    },
-    {
-      "id": "adzuna-5894078928",
-      "title": "Business AI Engineer - Intern - 2027",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5894078928?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-09-22T21:27:06Z"
     },
     {
       "id": "greenhouse-okta-8155883",
@@ -606,19 +606,6 @@
         "intern"
       ],
       "posted_at": "2026-09-13T21:30:54Z"
-    },
-    {
-      "id": "adzuna-5882755722",
-      "title": "Intern/ Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5882755722?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-09-13T21:27:07Z"
     },
     {
       "id": "adzuna-5882739387",
@@ -741,6 +728,19 @@
       "posted_at": "2026-09-02T21:29:12Z"
     },
     {
+      "id": "adzuna-5859765418",
+      "title": "Management Consulting – Intern – 2027",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5859765418?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern",
+        "consulting"
+      ],
+      "posted_at": "2026-08-28T20:56:00Z"
+    },
+    {
       "id": "adzuna-5859075097",
       "title": "Associate Analyst, Environment, Health and Safety",
       "company": "Colgate-Palmolive Company",
@@ -778,19 +778,6 @@
         "trainee"
       ],
       "posted_at": "2026-08-21T07:37:27Z"
-    },
-    {
-      "id": "adzuna-5839585382",
-      "title": "Associate Analyst - MDM",
-      "company": "Eaton",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5839585382?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-13T11:02:36Z"
     }
   ]
 }
