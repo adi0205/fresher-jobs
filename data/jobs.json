@@ -1,13 +1,90 @@
 {
-  "updated_at": "2026-10-16T08:26:11.653Z",
-  "count": 61,
+  "updated_at": "2026-10-17T07:59:17.626Z",
+  "count": 64,
   "sources": {
     "manual": 5,
     "greenhouse": 15,
     "lever": 0,
-    "adzuna": 75
+    "adzuna": 77
   },
   "jobs": [
+    {
+      "id": "adzuna-5931624171",
+      "title": "Payment Analyst",
+      "company": "ABB",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/land/ad/5931624171?se=OHsrnwDK8RGq65mh8wCbFA&utm_medium=api&utm_source=3e209453&v=564726896F89A3F6A9AC5CEFC0EAF3E1874E02A8",
+      "source": "Adzuna",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-10-17T09:46:25Z"
+    },
+    {
+      "id": "adzuna-5930892814",
+      "title": "MS - IT Infra/Cloud - Associate(Analyst) - ITAM- operate",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5930892814?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-16T21:55:23Z"
+    },
+    {
+      "id": "adzuna-5930891596",
+      "title": "MS - IT Infra/Cloud - Associate(Analyst) - ITAM- operate",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5930891596?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-16T21:54:38Z"
+    },
+    {
+      "id": "adzuna-5930850739",
+      "title": "MS - IT Infra/Cloud - Associate(Analyst) - ITAM - operate",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5930850739?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-16T21:40:58Z"
+    },
+    {
+      "id": "adzuna-5930844783",
+      "title": "IN-Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5930844783?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-10-16T21:37:19Z"
+    },
+    {
+      "id": "adzuna-5930838549",
+      "title": "MS - IT Infra/Cloud - Associate(Analyst) - ITAM - operate",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5930838549?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-16T21:33:20Z"
+    },
     {
       "id": "greenhouse-stripe-8247120",
       "title": "Monetization Operations Analyst",
@@ -96,18 +173,6 @@
       "posted_at": "2026-10-15T06:29:11-04:00"
     },
     {
-      "id": "adzuna-5927735175",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5927735175?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-10-14T22:05:05Z"
-    },
-    {
       "id": "adzuna-5925240084",
       "title": "Associate Analyst, Accounts Payable",
       "company": "Colgate-Palmolive Company",
@@ -182,19 +247,6 @@
         "sales"
       ],
       "posted_at": "2026-10-09T17:57:04Z"
-    },
-    {
-      "id": "adzuna-5920203795",
-      "title": "Associate Analyst - Financial Planning & Analysis",
-      "company": "United Airlines",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5920203795?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-09T11:21:11Z"
     },
     {
       "id": "greenhouse-stripe-8247127",
@@ -736,19 +788,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-02T21:29:12Z"
-    },
-    {
-      "id": "adzuna-5859765418",
-      "title": "Management Consulting – Intern – 2027",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5859765418?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern",
-        "consulting"
-      ],
-      "posted_at": "2026-08-28T20:56:00Z"
     },
     {
       "id": "adzuna-5859075097",
