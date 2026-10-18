@@ -1,24 +1,37 @@
 {
-  "updated_at": "2026-10-17T07:59:17.626Z",
-  "count": 64,
+  "updated_at": "2026-10-18T08:16:29.542Z",
+  "count": 62,
   "sources": {
     "manual": 5,
     "greenhouse": 15,
     "lever": 0,
-    "adzuna": 77
+    "adzuna": 75
   },
   "jobs": [
     {
-      "id": "adzuna-5931624171",
-      "title": "Payment Analyst",
-      "company": "ABB",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5931624171?se=OHsrnwDK8RGq65mh8wCbFA&utm_medium=api&utm_source=3e209453&v=564726896F89A3F6A9AC5CEFC0EAF3E1874E02A8",
+      "id": "adzuna-5932415473",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5932415473?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-10-17T21:56:00Z"
+    },
+    {
+      "id": "adzuna-5931775265",
+      "title": "Associate Analyst - People Data & Rewards",
+      "company": "Eaton",
+      "location": "Hadapsar, Pune",
+      "apply_url": "https://www.adzuna.in/details/5931775265?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
         "analyst"
       ],
-      "posted_at": "2026-10-17T09:46:25Z"
+      "posted_at": "2026-10-17T11:30:27Z"
     },
     {
       "id": "adzuna-5930892814",
@@ -184,32 +197,6 @@
         "analyst"
       ],
       "posted_at": "2026-10-13T07:33:23Z"
-    },
-    {
-      "id": "adzuna-5924411093",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5924411093?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-10-12T22:12:12Z"
-    },
-    {
-      "id": "adzuna-5923455652",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5923455652?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-10-11T21:38:43Z"
     },
     {
       "id": "adzuna-5923232274",
@@ -681,19 +668,6 @@
         "intern"
       ],
       "posted_at": "2026-09-13T21:20:15Z"
-    },
-    {
-      "id": "adzuna-5877252846",
-      "title": "Medical Claims Review Associate Analyst",
-      "company": "Cigna Group",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5877252846?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-09T21:14:45Z"
     },
     {
       "id": "adzuna-5876481233",
