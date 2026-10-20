@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-10-19T09:13:18.069Z",
-  "count": 66,
+  "updated_at": "2026-10-20T08:48:35.496Z",
+  "count": 64,
   "sources": {
     "manual": 5,
     "greenhouse": 15,
     "lever": 0,
-    "adzuna": 76
+    "adzuna": 77
   },
   "jobs": [
+    {
+      "id": "adzuna-5934363262",
+      "title": "IND-Associate Analyst Supply Chain",
+      "company": "Lowe's Home Centers",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/details/5934363262?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-19T21:33:12Z"
+    },
     {
       "id": "adzuna-5933981204",
       "title": "CA Intern (Industrial Trainee)",
@@ -59,18 +72,6 @@
         "analyst"
       ],
       "posted_at": "2026-10-18T16:26:26Z"
-    },
-    {
-      "id": "adzuna-5932415473",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5932415473?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-10-17T21:56:00Z"
     },
     {
       "id": "adzuna-5931775265",
@@ -827,32 +828,6 @@
         "analyst"
       ],
       "posted_at": "2026-08-28T07:12:46Z"
-    },
-    {
-      "id": "adzuna-5850377893",
-      "title": "Associate / Analyst, Algorithm Research & Development (AI)",
-      "company": "Kla",
-      "location": "Chennai, Tamil Nadu",
-      "apply_url": "https://www.adzuna.in/details/5850377893?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-08-21T07:39:19Z"
-    },
-    {
-      "id": "adzuna-5850371347",
-      "title": "Apprentice Trainee",
-      "company": "Baxter India",
-      "location": "Gurgaon, Haryana",
-      "apply_url": "https://www.adzuna.in/details/5850371347?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "apprenticeship",
-        "trainee"
-      ],
-      "posted_at": "2026-08-21T07:37:27Z"
     }
   ]
 }
