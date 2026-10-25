@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-10-24T08:20:36.361Z",
-  "count": 63,
+  "updated_at": "2026-10-25T08:39:36.830Z",
+  "count": 61,
   "sources": {
     "manual": 5,
     "greenhouse": 14,
     "lever": 0,
-    "adzuna": 77
+    "adzuna": 75
   },
   "jobs": [
+    {
+      "id": "adzuna-5941184561",
+      "title": "Associate Analyst - Reliability Ops Support",
+      "company": "United Airlines",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5941184561?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-25T11:33:02Z"
+    },
     {
       "id": "adzuna-5939919826",
       "title": "Java developer 2026",
@@ -43,19 +56,6 @@
         "intern"
       ],
       "posted_at": "2026-10-22T21:22:41Z"
-    },
-    {
-      "id": "adzuna-5936840708",
-      "title": "IN_Intern/Trainee",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5936840708?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "trainee",
-        "intern"
-      ],
-      "posted_at": "2026-10-21T21:25:44Z"
     },
     {
       "id": "greenhouse-stripe-8247127",
@@ -510,19 +510,6 @@
       "posted_at": "2026-10-07T00:12:25Z"
     },
     {
-      "id": "adzuna-5914014512",
-      "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
-      "company": "Baxter",
-      "location": "Gurgaon, Haryana",
-      "apply_url": "https://www.adzuna.in/details/5914014512?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "apprenticeship",
-        "trainee"
-      ],
-      "posted_at": "2026-10-06T21:50:23Z"
-    },
-    {
       "id": "adzuna-5910924699",
       "title": "Associate Business Analyst",
       "company": "Infosys",
@@ -639,19 +626,6 @@
         "sales"
       ],
       "posted_at": "2026-09-29T22:51:29Z"
-    },
-    {
-      "id": "adzuna-5896368619",
-      "title": "Associate Analyst , Supplier Compliance",
-      "company": "Colgate-Palmolive",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5896368619?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-24T11:14:50Z"
     },
     {
       "id": "adzuna-5894617272",
