@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30T10:22:08.593Z",
-  "count": 66,
+  "updated_at": "2026-10-31T09:53:50.199Z",
+  "count": 65,
   "sources": {
     "manual": 5,
     "greenhouse": 16,
     "lever": 0,
-    "adzuna": 78
+    "adzuna": 77
   },
   "jobs": [
     {
@@ -716,19 +716,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-19T11:12:32Z"
-    },
-    {
-      "id": "adzuna-5890240673",
-      "title": "Associate Product Analyst",
-      "company": "Eaton",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5890240673?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-19T11:11:53Z"
     },
     {
       "id": "adzuna-5882764473",
