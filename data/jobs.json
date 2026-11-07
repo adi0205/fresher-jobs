@@ -1,13 +1,89 @@
 {
-  "updated_at": "2026-11-06T11:21:59.478Z",
-  "count": 64,
+  "updated_at": "2026-11-07T10:35:47.551Z",
+  "count": 67,
   "sources": {
     "manual": 5,
     "greenhouse": 18,
     "lever": 0,
-    "adzuna": 77
+    "adzuna": 79
   },
   "jobs": [
+    {
+      "id": "adzuna-5956582215",
+      "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
+      "company": "The Cigna Group",
+      "location": "Delhi, India",
+      "apply_url": "https://www.adzuna.in/details/5956582215?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-07T11:54:21Z"
+    },
+    {
+      "id": "adzuna-5956258954",
+      "title": "Accounting & Reporting Analyst",
+      "company": "ABB",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/land/ad/5956258954?se=Th_I9pba8RGMj86c16zqBQ&utm_medium=api&utm_source=3e209453&v=291515E0E03D4CAE4E4B7CE8D2A85CD3910F350D",
+      "source": "Adzuna",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-07T08:48:00Z"
+    },
+    {
+      "id": "adzuna-5956159356",
+      "title": "Associate Analyst - TAX - TMT - TAX - Indirect Tax - Core - Bangalore",
+      "company": "EY",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/details/5956159356?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-07T06:24:25Z"
+    },
+    {
+      "id": "adzuna-5955889029",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5955889029?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-11-07T00:38:09Z"
+    },
+    {
+      "id": "adzuna-5955882039",
+      "title": "Automation Engineer Associate Analysts - Cigna Healthcare",
+      "company": "Cigna Group",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/details/5955882039?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-07T00:36:44Z"
+    },
+    {
+      "id": "greenhouse-gitlab-8864819002",
+      "title": "Benefits Analyst",
+      "company": "Gitlab",
+      "location": "Bangalore, India",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8864819002",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-06T15:25:07-05:00"
+    },
     {
       "id": "adzuna-5955407271",
       "title": "Associate Analyst - Contact Center Reporting & Administration",
@@ -47,7 +123,7 @@
     },
     {
       "id": "adzuna-5953165604",
-      "title": "Automation Engineer Associate Analysts - Cigna Healthcare",
+      "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
       "company": "Cigna Group",
       "location": "Bangalore, Karnataka",
       "apply_url": "https://www.adzuna.in/details/5953165604?utm_medium=api&utm_source=3e209453",
@@ -148,6 +224,19 @@
         "analyst"
       ],
       "posted_at": "2026-11-01T21:26:36Z"
+    },
+    {
+      "id": "adzuna-5948738078",
+      "title": "Accounting Associate Analyst - Cigna Healthcare",
+      "company": "The Cigna Group",
+      "location": "Bangalore, Karnataka",
+      "apply_url": "https://www.adzuna.in/details/5948738078?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-01T11:45:55Z"
     },
     {
       "id": "adzuna-5948195234",
@@ -400,31 +489,6 @@
       "posted_at": "2026-10-29T04:46:20Z"
     },
     {
-      "id": "adzuna-5944716431",
-      "title": "Associate Data Analyst - CSA",
-      "company": "Havas",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5944716431?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-28T21:48:53Z"
-    },
-    {
-      "id": "greenhouse-gitlab-8864819002",
-      "title": "Benefits Analyst",
-      "company": "Gitlab",
-      "location": "Bangalore, India",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8864819002",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-10-28T12:23:39-04:00"
-    },
-    {
       "id": "adzuna-5944176923",
       "title": "Associate Analyst, Travel & Expense",
       "company": "Colgate-Palmolive",
@@ -549,19 +613,6 @@
       "posted_at": "2026-10-09T17:57:04Z"
     },
     {
-      "id": "adzuna-5918772112",
-      "title": "Associate Analyst",
-      "company": "Mastercard",
-      "location": "Navi Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5918772112?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-08T16:23:42Z"
-    },
-    {
       "id": "adzuna-5910924699",
       "title": "Associate Business Analyst",
       "company": "Infosys",
@@ -664,19 +715,6 @@
         "analyst"
       ],
       "posted_at": "2026-10-04T08:09:40Z"
-    },
-    {
-      "id": "adzuna-5901698456",
-      "title": "Associate IS Analyst – Vault Quality",
-      "company": "Amgen",
-      "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/details/5901698456?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-28T21:10:09Z"
     },
     {
       "id": "adzuna-5896368619",
