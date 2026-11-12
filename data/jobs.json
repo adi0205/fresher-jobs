@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-11-11T11:21:33.290Z",
-  "count": 65,
+  "updated_at": "2026-11-12T11:41:48.008Z",
+  "count": 64,
   "sources": {
     "manual": 5,
-    "greenhouse": 18,
+    "greenhouse": 17,
     "lever": 0,
     "adzuna": 77
   },
   "jobs": [
+    {
+      "id": "adzuna-5961900893",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5961900893?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-11-11T22:31:42Z"
+    },
+    {
+      "id": "greenhouse-stripe-8364868",
+      "title": "Finance and Strategy Data Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8364868",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst",
+        "data"
+      ],
+      "posted_at": "2026-11-11T07:40:40-05:00"
+    },
     {
       "id": "greenhouse-okta-7727730",
       "title": "Business Systems Analyst, ServiceNow",
@@ -33,17 +58,17 @@
       "posted_at": "2026-11-10T03:24:51-05:00"
     },
     {
-      "id": "adzuna-5959383235",
-      "title": "Corporate Action and Income Analyst- Associate",
-      "company": "Deutsche Bank",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/land/ad/5959383235?se=-pv5CcLd8RGn4sJzdKremA&utm_medium=api&utm_source=3e209453&v=1255524F7331ED59C994B802C1877898392CC245",
+      "id": "adzuna-5959118202",
+      "title": "Associate Analyst - TAX - TMT - TAX - Indirect Tax - Core - Mumbai",
+      "company": "EY",
+      "location": "Mumbai, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5959118202?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
         "associate",
         "analyst"
       ],
-      "posted_at": "2026-11-09T22:37:24Z"
+      "posted_at": "2026-11-09T18:22:33Z"
     },
     {
       "id": "adzuna-5959117783",
@@ -85,17 +110,16 @@
       "posted_at": "2026-11-07T23:02:51Z"
     },
     {
-      "id": "adzuna-5957254815",
-      "title": "Associate Data Analyst",
-      "company": "Gartner",
+      "id": "adzuna-5957221125",
+      "title": "IN-Intern",
+      "company": "PricewaterhouseCoopers",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5957254815?utm_medium=api&utm_source=3e209453",
+      "apply_url": "https://www.adzuna.in/details/5957221125?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "associate",
-        "analyst"
+        "intern"
       ],
-      "posted_at": "2026-11-07T22:57:13Z"
+      "posted_at": "2026-11-07T22:26:27Z"
     },
     {
       "id": "adzuna-5956582215",
@@ -172,18 +196,6 @@
         "analyst"
       ],
       "posted_at": "2026-11-05T12:39:49-05:00"
-    },
-    {
-      "id": "greenhouse-stripe-8352485",
-      "title": "Operations Associate, Financial Crimes (AML Investigations)",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8352485",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-11-05T02:07:41-05:00"
     },
     {
       "id": "adzuna-5953158136",
@@ -303,19 +315,6 @@
       "posted_at": "2026-10-29T21:24:34Z"
     },
     {
-      "id": "adzuna-5945888792",
-      "title": "Apprentice Trainee",
-      "company": "Cummins",
-      "location": "Phaltan, Satara",
-      "apply_url": "https://www.adzuna.in/details/5945888792?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "apprenticeship",
-        "trainee"
-      ],
-      "posted_at": "2026-10-29T21:21:04Z"
-    },
-    {
       "id": "greenhouse-stripe-8247127",
       "title": "AR Analyst",
       "company": "Stripe",
@@ -345,18 +344,6 @@
       "company": "Stripe",
       "location": "Bangalore ",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8104748",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8076652",
-      "title": "Fraud Operations Associate (Mandarin Speaking)",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8076652",
       "source": "Greenhouse",
       "tags": [
         "associate"
@@ -535,6 +522,19 @@
         "intern"
       ],
       "posted_at": "2026-10-20T21:17:53Z"
+    },
+    {
+      "id": "adzuna-5933188401",
+      "title": "Associate Analyst - TAX - TMT - TAX - Indirect Tax - Core - Chennai",
+      "company": "EY",
+      "location": "Chennai, Tamil Nadu",
+      "apply_url": "https://www.adzuna.in/details/5933188401?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-18T16:26:29Z"
     },
     {
       "id": "adzuna-5933188232",
@@ -735,19 +735,6 @@
       "company": "Infosys",
       "location": "Bangalore, Karnataka",
       "apply_url": "https://www.adzuna.in/details/5910924564?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-04T08:09:40Z"
-    },
-    {
-      "id": "adzuna-5910924580",
-      "title": "Associate Business Analyst",
-      "company": "Infosys",
-      "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/details/5910924580?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
         "associate",
