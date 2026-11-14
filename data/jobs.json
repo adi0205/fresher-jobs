@@ -1,25 +1,48 @@
 {
-  "updated_at": "2026-11-13T11:25:10.298Z",
-  "count": 58,
+  "updated_at": "2026-11-14T10:47:45.750Z",
+  "count": 54,
   "sources": {
     "manual": 5,
-    "greenhouse": 17,
+    "greenhouse": 16,
     "lever": 0,
-    "adzuna": 71
+    "adzuna": 72
   },
   "jobs": [
     {
-      "id": "adzuna-5964199253",
-      "title": "Associate Analyst - Customer Insights & Analytics IKC",
-      "company": "United Airlines",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5964199253?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5965393430",
+      "title": "Apprentice. IT. Development Program",
+      "company": "Eaton",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5965393430?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "associate",
+        "apprenticeship"
+      ],
+      "posted_at": "2026-11-14T12:31:32Z"
+    },
+    {
+      "id": "greenhouse-okta-7626222",
+      "title": "AP & Expenses Projects Analyst",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7626222?gh_jid=7626222",
+      "source": "Greenhouse",
+      "tags": [
         "analyst"
       ],
-      "posted_at": "2026-11-13T12:32:49Z"
+      "posted_at": "2026-11-13T16:59:18-05:00"
+    },
+    {
+      "id": "greenhouse-okta-7727730",
+      "title": "Business Systems Analyst, ServiceNow",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-13T16:59:18-05:00"
     },
     {
       "id": "adzuna-5963428209",
@@ -48,18 +71,6 @@
       "posted_at": "2026-11-12T12:29:53Z"
     },
     {
-      "id": "adzuna-5961900893",
-      "title": "In_Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5961900893?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-11-11T22:31:42Z"
-    },
-    {
       "id": "greenhouse-stripe-8364868",
       "title": "Finance and Strategy Data Analyst",
       "company": "Stripe",
@@ -71,18 +82,6 @@
         "data"
       ],
       "posted_at": "2026-11-11T07:40:40-05:00"
-    },
-    {
-      "id": "greenhouse-okta-7727730",
-      "title": "Business Systems Analyst, ServiceNow",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-11-10T06:08:38-05:00"
     },
     {
       "id": "greenhouse-stripe-8158943",
@@ -136,44 +135,6 @@
       "posted_at": "2026-11-09T12:43:09Z"
     },
     {
-      "id": "adzuna-5957259538",
-      "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
-      "company": "Cigna Group",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5957259538?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-11-07T23:02:51Z"
-    },
-    {
-      "id": "adzuna-5957221125",
-      "title": "IN-Intern",
-      "company": "PricewaterhouseCoopers",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5957221125?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "intern"
-      ],
-      "posted_at": "2026-11-07T22:26:27Z"
-    },
-    {
-      "id": "adzuna-5956582215",
-      "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
-      "company": "The Cigna Group",
-      "location": "Delhi, India",
-      "apply_url": "https://www.adzuna.in/details/5956582215?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-11-07T11:54:21Z"
-    },
-    {
       "id": "adzuna-5955889029",
       "title": "IN_Intern/Trainee",
       "company": "PricewaterhouseCoopers",
@@ -223,18 +184,6 @@
         "analyst"
       ],
       "posted_at": "2026-11-06T13:44:11Z"
-    },
-    {
-      "id": "greenhouse-okta-7626222",
-      "title": "AP & Expenses Projects Analyst",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7626222?gh_jid=7626222",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-11-05T12:39:49-05:00"
     },
     {
       "id": "adzuna-5953158136",
@@ -452,19 +401,6 @@
       "posted_at": "2026-10-29T10:42:09-04:00"
     },
     {
-      "id": "greenhouse-stripe-8130876",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "location": "Bangalore",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8130876",
-      "source": "Greenhouse",
-      "tags": [
-        "graduate",
-        "engineering"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
       "id": "greenhouse-stripe-8189018",
       "title": "Third Party Risk Analyst",
       "company": "Stripe",
@@ -513,6 +449,32 @@
         "analyst"
       ],
       "posted_at": "2026-10-29T04:46:20Z"
+    },
+    {
+      "id": "adzuna-5944719573",
+      "title": "Associate Data Analyst - CSA",
+      "company": "Havas",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5944719573?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-28T21:50:30Z"
+    },
+    {
+      "id": "adzuna-5944716431",
+      "title": "Associate Data Analyst - CSA",
+      "company": "Havas",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5944716431?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-28T21:48:53Z"
     },
     {
       "id": "adzuna-5944176923",
@@ -678,30 +640,17 @@
       "posted_at": "2026-10-09T17:57:04Z"
     },
     {
-      "id": "adzuna-5910924699",
-      "title": "Associate Business Analyst",
-      "company": "Infosys",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5910924699?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5901698456",
+      "title": "Associate IS Analyst – Vault Quality",
+      "company": "Amgen",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/details/5901698456?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
         "associate",
         "analyst"
       ],
-      "posted_at": "2026-10-04T08:09:41Z"
-    },
-    {
-      "id": "adzuna-5910924703",
-      "title": "Associate Business Analyst",
-      "company": "Infosys",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5910924703?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-04T08:09:41Z"
+      "posted_at": "2026-09-28T21:10:09Z"
     },
     {
       "id": "adzuna-5896368619",
