@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-11-17T12:18:45.350Z",
+  "updated_at": "2026-11-18T12:05:59.198Z",
   "count": 60,
   "sources": {
     "manual": 5,
-    "greenhouse": 16,
+    "greenhouse": 14,
     "lever": 0,
-    "adzuna": 77
+    "adzuna": 78
   },
   "jobs": [
+    {
+      "id": "adzuna-5969227431",
+      "title": "Intern",
+      "company": "Shell",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5969227431?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-11-17T22:09:36Z"
+    },
     {
       "id": "adzuna-5968755309",
       "title": "Associate Analyst, Accounts Payable",
@@ -44,18 +56,6 @@
         "analyst"
       ],
       "posted_at": "2026-11-16T18:28:00-05:00"
-    },
-    {
-      "id": "greenhouse-stripe-5423044",
-      "title": "Risk Operations Associate ",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=5423044",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-11-16T11:02:25-05:00"
     },
     {
       "id": "adzuna-5967511694",
@@ -122,6 +122,18 @@
       "posted_at": "2026-11-14T12:31:32Z"
     },
     {
+      "id": "adzuna-5964783220",
+      "title": "Interns",
+      "company": "Genpact",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5964783220?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "intern"
+      ],
+      "posted_at": "2026-11-13T22:29:40Z"
+    },
+    {
       "id": "adzuna-5962709070",
       "title": "Associate Analyst",
       "company": "Eaton",
@@ -146,18 +158,6 @@
         "data"
       ],
       "posted_at": "2026-11-11T07:40:40-05:00"
-    },
-    {
-      "id": "greenhouse-stripe-8158943",
-      "title": "Fraud Operations Associate SDC",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8158943",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-11-10T03:24:51-05:00"
     },
     {
       "id": "adzuna-5959118202",
@@ -490,6 +490,19 @@
       "posted_at": "2026-10-29T04:46:20Z"
     },
     {
+      "id": "adzuna-5944719573",
+      "title": "Associate Data Analyst - CSA",
+      "company": "Havas",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5944719573?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-28T21:50:30Z"
+    },
+    {
       "id": "adzuna-5944716431",
       "title": "Associate Data Analyst - CSA",
       "company": "Havas",
@@ -755,19 +768,6 @@
         "analyst"
       ],
       "posted_at": "2026-09-23T07:13:03Z"
-    },
-    {
-      "id": "adzuna-5890241533",
-      "title": "Associate Collections Analyst",
-      "company": "NTT America, .",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5890241533?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-19T11:12:32Z"
     }
   ]
 }
