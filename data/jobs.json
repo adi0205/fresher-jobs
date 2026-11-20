@@ -1,61 +1,49 @@
 {
-  "updated_at": "2026-11-19T12:00:19.527Z",
-  "count": 19,
+  "updated_at": "2026-11-20T12:01:43.082Z",
+  "count": 26,
   "sources": {
     "manual": 5,
-    "greenhouse": 14,
+    "greenhouse": 15,
     "lever": 0,
-    "adzuna": 10
+    "adzuna": 36
   },
   "jobs": [
     {
-      "id": "greenhouse-stripe-8130876",
-      "title": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "location": "Bangalore",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8130876",
-      "source": "Greenhouse",
-      "tags": [
-        "graduate",
-        "engineering"
-      ],
-      "posted_at": "2026-11-19T00:43:52-05:00"
-    },
-    {
-      "id": "adzuna-5970787161",
-      "title": "Accounting & Reporting Analyst - Account",
-      "company": "ABB",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5970787161?se=sqiVvRDk8RGdAYQ2s1_dqg&utm_medium=api&utm_source=3e209453&v=31E93CB43FE44DF82E44A94224A93C301307A152",
+      "id": "adzuna-5971880081",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5971880081?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "analyst"
+        "trainee",
+        "intern"
       ],
-      "posted_at": "2026-11-19T02:44:22Z"
+      "posted_at": "2026-11-19T22:33:54Z"
     },
     {
-      "id": "adzuna-5970787148",
-      "title": "Intercompany Analyst",
-      "company": "ABB",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5970787148?se=sqiVvRDk8RGdAYQ2s1_dqg&utm_medium=api&utm_source=3e209453&v=817CF8D64485A9EE455E5541E318E1CB1BC9B848",
+      "id": "adzuna-5971879779",
+      "title": "In_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5971879779?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "analyst"
+        "intern"
       ],
-      "posted_at": "2026-11-19T02:44:22Z"
+      "posted_at": "2026-11-19T22:33:42Z"
     },
     {
-      "id": "adzuna-5970787153",
-      "title": "Accounting&Reporting Analyst-Receivable( fixed term contract )",
-      "company": "ABB",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/land/ad/5970787153?se=sqiVvRDk8RGdAYQ2s1_dqg&utm_medium=api&utm_source=3e209453&v=1DCC4265D6DE33807B2A88A4C82BAFB10F634F4D",
+      "id": "adzuna-5971849416",
+      "title": "IN_Intern",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5971849416?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "analyst"
+        "intern"
       ],
-      "posted_at": "2026-11-19T02:44:22Z"
+      "posted_at": "2026-11-19T22:11:25Z"
     },
     {
       "id": "greenhouse-okta-7727730",
@@ -67,7 +55,7 @@
       "tags": [
         "analyst"
       ],
-      "posted_at": "2026-11-16T18:36:13-05:00"
+      "posted_at": "2026-11-19T14:55:39-05:00"
     },
     {
       "id": "greenhouse-okta-7626222",
@@ -79,7 +67,20 @@
       "tags": [
         "analyst"
       ],
-      "posted_at": "2026-11-16T18:28:00-05:00"
+      "posted_at": "2026-11-19T14:53:51-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8108391",
+      "title": "Marketing Operations Associate (Automation)",
+      "company": "Stripe",
+      "location": "(Bengaluru, India)",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8108391",
+      "source": "Greenhouse",
+      "tags": [
+        "associate",
+        "marketing"
+      ],
+      "posted_at": "2026-11-19T13:57:52-05:00"
     },
     {
       "id": "greenhouse-stripe-8364868",
@@ -92,7 +93,155 @@
         "analyst",
         "data"
       ],
-      "posted_at": "2026-11-11T07:40:40-05:00"
+      "posted_at": "2026-11-19T12:10:23-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8324207",
+      "title": "Processing Cost Analyst",
+      "company": "Stripe",
+      "location": "IN-Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8324207",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-19T12:10:19-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8273713",
+      "title": "Corporate Accounting Analyst (Bangalore)",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8273713",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-19T12:10:15-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8247127",
+      "title": "AR Analyst",
+      "company": "Stripe",
+      "location": "Bangalore",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8247127",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-19T12:10:11-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8247120",
+      "title": "Monetization Operations Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8247120",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-19T12:10:11-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8189018",
+      "title": "Third Party Risk Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8189018",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-19T12:10:04-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8130876",
+      "title": "Software Engineer, New Grad",
+      "company": "Stripe",
+      "location": "Bangalore",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8130876",
+      "source": "Greenhouse",
+      "tags": [
+        "graduate",
+        "engineering"
+      ],
+      "posted_at": "2026-11-19T12:10:00-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8131339",
+      "title": "Operations Associate, Apprenticeship",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8131339",
+      "source": "Greenhouse",
+      "tags": [
+        "apprenticeship",
+        "associate"
+      ],
+      "posted_at": "2026-11-19T12:09:59-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8104748",
+      "title": " Credit Risk Operations Associate",
+      "company": "Stripe",
+      "location": "Bangalore ",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8104748",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-11-19T12:09:58-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-8031833",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "source": "Greenhouse",
+      "tags": [
+        "intern",
+        "engineering"
+      ],
+      "posted_at": "2026-11-19T12:09:56-05:00"
+    },
+    {
+      "id": "greenhouse-stripe-7962437",
+      "title": "Social Media, Customer Support Associate",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
+      "source": "Greenhouse",
+      "tags": [
+        "associate"
+      ],
+      "posted_at": "2026-11-19T12:09:55-05:00"
+    },
+    {
+      "id": "adzuna-5970549105",
+      "title": "IN-Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5970549105?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "trainee",
+        "intern"
+      ],
+      "posted_at": "2026-11-18T22:24:30Z"
+    },
+    {
+      "id": "adzuna-5965393430",
+      "title": "Apprentice. IT. Development Program",
+      "company": "Eaton",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5965393430?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "apprenticeship"
+      ],
+      "posted_at": "2026-11-14T12:31:32Z"
     },
     {
       "id": "greenhouse-gitlab-8864819002",
@@ -107,138 +256,80 @@
       "posted_at": "2026-11-06T15:25:07-05:00"
     },
     {
-      "id": "greenhouse-stripe-8324207",
-      "title": "Processing Cost Analyst",
-      "company": "Stripe",
-      "location": "IN-Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8324207",
-      "source": "Greenhouse",
+      "id": "adzuna-5953158136",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "Pune, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5953158136?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
       "tags": [
-        "analyst"
+        "trainee",
+        "intern"
       ],
-      "posted_at": "2026-11-02T01:48:20-05:00"
+      "posted_at": "2026-11-04T21:52:46Z"
     },
     {
-      "id": "greenhouse-stripe-8247127",
-      "title": "AR Analyst",
-      "company": "Stripe",
-      "location": "Bangalore",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8247127",
-      "source": "Greenhouse",
+      "id": "adzuna-5951889218",
+      "title": "Early Careers: 2026 Graduate Actuarial Trainee (Intern) - Gurugram",
+      "company": "WTW",
+      "location": "Gurgaon, Haryana",
+      "apply_url": "https://www.adzuna.in/details/5951889218?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
       "tags": [
-        "analyst"
+        "graduate",
+        "trainee",
+        "intern"
       ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
+      "posted_at": "2026-11-03T21:35:35Z"
     },
     {
-      "id": "greenhouse-stripe-8273713",
-      "title": "Corporate Accounting Analyst (Bangalore)",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8273713",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8104748",
-      "title": " Credit Risk Operations Associate",
-      "company": "Stripe",
-      "location": "Bangalore ",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8104748",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8247120",
-      "title": "Monetization Operations Analyst",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8247120",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8131339",
-      "title": "Operations Associate, Apprenticeship",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8131339",
-      "source": "Greenhouse",
-      "tags": [
-        "apprenticeship",
-        "associate"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-7962437",
-      "title": "Social Media, Customer Support Associate",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7962437",
-      "source": "Greenhouse",
-      "tags": [
-        "associate"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "id": "greenhouse-stripe-8031833",
-      "title": "Software Engineer, Intern",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "source": "Greenhouse",
+      "id": "adzuna-5950708421",
+      "title": "Technology Consulting – Intern – 2027",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5950708421?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
       "tags": [
         "intern",
-        "engineering"
+        "consulting"
       ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
+      "posted_at": "2026-11-02T21:19:19Z"
     },
     {
-      "id": "greenhouse-stripe-8189018",
-      "title": "Third Party Risk Analyst",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8189018",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "id": "adzuna-5923232274",
-      "title": "Business Development Executive",
-      "company": "Square Yards",
-      "location": "Pune, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5923232274?utm_medium=api&utm_source=3e209453",
+      "id": "adzuna-5945888792",
+      "title": "Apprentice Trainee",
+      "company": "Cummins",
+      "location": "Phaltan, Satara",
+      "apply_url": "https://www.adzuna.in/details/5945888792?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "sales"
+        "apprenticeship",
+        "trainee"
       ],
-      "posted_at": "2026-10-11T16:47:58Z"
+      "posted_at": "2026-10-29T21:21:04Z"
     },
     {
-      "id": "adzuna-5920569497",
-      "title": "Sales Executive",
-      "company": "axis bank",
+      "id": "adzuna-5939919826",
+      "title": "Java developer 2026",
+      "company": "Infosys",
       "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5920569497?utm_medium=api&utm_source=3e209453",
+      "apply_url": "https://www.adzuna.in/details/5939919826?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [],
+      "posted_at": "2026-10-24T07:53:36Z"
+    },
+    {
+      "id": "adzuna-5938138423",
+      "title": "IN_Intern/Trainee",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5938138423?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "sales"
+        "trainee",
+        "intern"
       ],
-      "posted_at": "2026-10-09T17:57:04Z"
+      "posted_at": "2026-10-22T21:22:41Z"
     }
   ]
 }
