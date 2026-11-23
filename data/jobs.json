@@ -1,24 +1,76 @@
 {
-  "updated_at": "2026-11-22T11:50:56.335Z",
+  "updated_at": "2026-11-23T13:30:20.743Z",
   "count": 57,
   "sources": {
     "manual": 5,
-    "greenhouse": 14,
+    "greenhouse": 12,
     "lever": 0,
-    "adzuna": 77
+    "adzuna": 79
   },
   "jobs": [
     {
-      "id": "adzuna-5974334427",
-      "title": "In_Intern",
+      "id": "greenhouse-stripe-8247120",
+      "title": "Monetization Operations Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8247120",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-23T05:24:23-05:00"
+    },
+    {
+      "id": "adzuna-5975266717",
+      "title": "MS - IT Infra/Cloud - Associate(Analyst) - ITAM- operate",
       "company": "PricewaterhouseCoopers",
       "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5974334427?utm_medium=api&utm_source=3e209453",
+      "apply_url": "https://www.adzuna.in/details/5975266717?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
-        "intern"
+        "associate",
+        "analyst"
       ],
-      "posted_at": "2026-11-21T22:12:54Z"
+      "posted_at": "2026-11-22T22:37:21Z"
+    },
+    {
+      "id": "adzuna-5975246428",
+      "title": "Associate Analyst, IT",
+      "company": "Baxter",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5975246428?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-22T22:13:24Z"
+    },
+    {
+      "id": "adzuna-5975006965",
+      "title": "Associate Analyst - TAX - National - TAX - Indirect Tax - Core - Mumbai",
+      "company": "EY",
+      "location": "Mumbai, Maharashtra",
+      "apply_url": "https://www.adzuna.in/details/5975006965?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-22T18:19:05Z"
+    },
+    {
+      "id": "adzuna-5974801370",
+      "title": "Associate Analyst - AO Business Strategy & Insight",
+      "company": "United Airlines",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5974801370?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-22T12:40:08Z"
     },
     {
       "id": "adzuna-5974331070",
@@ -109,18 +161,6 @@
       "posted_at": "2026-11-19T22:11:25Z"
     },
     {
-      "id": "greenhouse-okta-7727730",
-      "title": "Business Systems Analyst, ServiceNow",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-11-19T14:55:39-05:00"
-    },
-    {
       "id": "greenhouse-okta-7626222",
       "title": "AP & Expenses Projects Analyst",
       "company": "Okta",
@@ -131,19 +171,6 @@
         "analyst"
       ],
       "posted_at": "2026-11-19T14:53:51-05:00"
-    },
-    {
-      "id": "greenhouse-stripe-8108391",
-      "title": "Marketing Operations Associate (Automation)",
-      "company": "Stripe",
-      "location": "(Bengaluru, India)",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8108391",
-      "source": "Greenhouse",
-      "tags": [
-        "associate",
-        "marketing"
-      ],
-      "posted_at": "2026-11-19T13:57:52-05:00"
     },
     {
       "id": "greenhouse-stripe-8364868",
@@ -188,18 +215,6 @@
       "company": "Stripe",
       "location": "Bangalore",
       "apply_url": "https://stripe.com/jobs/search?gh_jid=8247127",
-      "source": "Greenhouse",
-      "tags": [
-        "analyst"
-      ],
-      "posted_at": "2026-11-19T12:10:11-05:00"
-    },
-    {
-      "id": "greenhouse-stripe-8247120",
-      "title": "Monetization Operations Analyst",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8247120",
       "source": "Greenhouse",
       "tags": [
         "analyst"
@@ -529,32 +544,6 @@
       "posted_at": "2026-10-29T04:46:20Z"
     },
     {
-      "id": "adzuna-5944719573",
-      "title": "Associate Data Analyst - CSA",
-      "company": "Havas",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5944719573?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-28T21:50:30Z"
-    },
-    {
-      "id": "adzuna-5944716431",
-      "title": "Associate Data Analyst - CSA",
-      "company": "Havas",
-      "location": "India",
-      "apply_url": "https://www.adzuna.in/details/5944716431?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-10-28T21:48:53Z"
-    },
-    {
       "id": "adzuna-5939919826",
       "title": "Java developer 2026",
       "company": "Infosys",
@@ -563,6 +552,19 @@
       "source": "Adzuna",
       "tags": [],
       "posted_at": "2026-10-24T07:53:36Z"
+    },
+    {
+      "id": "adzuna-5930891596",
+      "title": "MS - IT Infra/Cloud - Associate(Analyst) - ITAM- operate",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5930891596?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-16T21:54:38Z"
     },
     {
       "id": "adzuna-5930850739",
@@ -576,6 +578,19 @@
         "analyst"
       ],
       "posted_at": "2026-10-16T21:40:58Z"
+    },
+    {
+      "id": "adzuna-5930838549",
+      "title": "MS - IT Infra/Cloud - Associate(Analyst) - ITAM - operate",
+      "company": "PricewaterhouseCoopers",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5930838549?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-10-16T21:33:20Z"
     },
     {
       "id": "adzuna-5928583257",
@@ -717,19 +732,6 @@
         "analyst"
       ],
       "posted_at": "2026-10-04T08:09:40Z"
-    },
-    {
-      "id": "adzuna-5896368619",
-      "title": "Associate Analyst , Supplier Compliance",
-      "company": "Colgate-Palmolive",
-      "location": "Mumbai, Maharashtra",
-      "apply_url": "https://www.adzuna.in/details/5896368619?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-09-24T11:14:50Z"
     }
   ]
 }
