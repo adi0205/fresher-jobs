@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-11-23T13:30:20.743Z",
-  "count": 57,
+  "updated_at": "2026-11-24T14:08:13.925Z",
+  "count": 58,
   "sources": {
     "manual": 5,
     "greenhouse": 12,
     "lever": 0,
-    "adzuna": 79
+    "adzuna": 80
   },
   "jobs": [
+    {
+      "id": "adzuna-5976873806",
+      "title": "Associate Analyst, Delivery Strategy Services",
+      "company": "Invesco",
+      "location": "Hyderabad, Telangana",
+      "apply_url": "https://www.adzuna.in/land/ad/5976873806?se=hnQ_ehDo8RGGB-HgzbGVmw&utm_medium=api&utm_source=3e209453&v=AAF97DFE0AAD4AB531298651384C84A6C3386D23",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-24T12:53:30Z"
+    },
     {
       "id": "greenhouse-stripe-8247120",
       "title": "Monetization Operations Analyst",
