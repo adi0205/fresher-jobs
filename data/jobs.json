@@ -1,25 +1,62 @@
 {
-  "updated_at": "2026-11-24T14:08:13.925Z",
-  "count": 58,
+  "updated_at": "2026-11-25T13:21:47.307Z",
+  "count": 60,
   "sources": {
     "manual": 5,
-    "greenhouse": 12,
+    "greenhouse": 13,
     "lever": 0,
-    "adzuna": 80
+    "adzuna": 81
   },
   "jobs": [
     {
-      "id": "adzuna-5976873806",
-      "title": "Associate Analyst, Delivery Strategy Services",
-      "company": "Invesco",
-      "location": "Hyderabad, Telangana",
-      "apply_url": "https://www.adzuna.in/land/ad/5976873806?se=hnQ_ehDo8RGGB-HgzbGVmw&utm_medium=api&utm_source=3e209453&v=AAF97DFE0AAD4AB531298651384C84A6C3386D23",
+      "id": "adzuna-5978014670",
+      "title": "Associate Compliance Analyst",
+      "company": "UnitedHealth Group",
+      "location": "Gurgaon, Haryana",
+      "apply_url": "https://www.adzuna.in/details/5978014670?utm_medium=api&utm_source=3e209453",
       "source": "Adzuna",
       "tags": [
         "associate",
         "analyst"
       ],
-      "posted_at": "2026-11-24T12:53:30Z"
+      "posted_at": "2026-11-25T12:43:00Z"
+    },
+    {
+      "id": "greenhouse-stripe-8411217",
+      "title": "Accounts Payable Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8411217",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-24T23:47:48-05:00"
+    },
+    {
+      "id": "adzuna-5977324461",
+      "title": "Associate Data Analyst",
+      "company": "Gartner",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5977324461?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-24T22:15:32Z"
+    },
+    {
+      "id": "greenhouse-stripe-8401662",
+      "title": "Accounting Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8401662",
+      "source": "Greenhouse",
+      "tags": [
+        "analyst"
+      ],
+      "posted_at": "2026-11-24T12:31:28-05:00"
     },
     {
       "id": "greenhouse-stripe-8247120",
@@ -109,19 +146,6 @@
         "analyst"
       ],
       "posted_at": "2026-11-21T12:35:00Z"
-    },
-    {
-      "id": "adzuna-5973120081",
-      "title": "Associate Systems Analyst",
-      "company": "Novo Nordisk",
-      "location": "Bangalore, Karnataka",
-      "apply_url": "https://www.adzuna.in/details/5973120081?utm_medium=api&utm_source=3e209453",
-      "source": "Adzuna",
-      "tags": [
-        "associate",
-        "analyst"
-      ],
-      "posted_at": "2026-11-20T22:44:42Z"
     },
     {
       "id": "adzuna-5971880081",
@@ -258,19 +282,6 @@
         "engineering"
       ],
       "posted_at": "2026-11-19T12:10:00-05:00"
-    },
-    {
-      "id": "greenhouse-stripe-8131339",
-      "title": "Operations Associate, Apprenticeship",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8131339",
-      "source": "Greenhouse",
-      "tags": [
-        "apprenticeship",
-        "associate"
-      ],
-      "posted_at": "2026-11-19T12:09:59-05:00"
     },
     {
       "id": "greenhouse-stripe-8104748",
@@ -450,6 +461,19 @@
         "analyst"
       ],
       "posted_at": "2026-11-09T12:43:09Z"
+    },
+    {
+      "id": "adzuna-5957254815",
+      "title": "Associate Data Analyst",
+      "company": "Gartner",
+      "location": "India",
+      "apply_url": "https://www.adzuna.in/details/5957254815?utm_medium=api&utm_source=3e209453",
+      "source": "Adzuna",
+      "tags": [
+        "associate",
+        "analyst"
+      ],
+      "posted_at": "2026-11-07T22:57:13Z"
     },
     {
       "id": "adzuna-5955407271",
